@@ -1,0 +1,1107 @@
+Nombre de la cuenta,Naturaleza ampliada,Libros contables relevantes,Descripción
+Acciones adquiridas,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Acciones adquiridas
+Acciones no suscritas,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Acciones no suscritas
+Acciones por suscribir,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Acciones por suscribir
+Acciones suscritas,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Acciones suscritas
+Acreedores,Acreedor/pasivo,Balance General/Balance de Saldos,Representa un pasivo. Acreedores
+Acreedores hipotecarios,Acreedor/pasivo a largo plazo,Balance General,Acreedores hipotecarios
+Acreedores a largo plazo,Acreedor/pasivo a largo plazo,Balance General,Acreedores a largo plazo
+Acreedores por prendas en garantía,Acreedor/pasivo,Balance General,Representa un pasivo. Acreedores por prendas en garantía
+Acreedores comerciales,Acreedor/pasivo,Balance General,Representa un pasivo. Acreedores comerciales
+Acreedores no comerciales,Acreedor/pasivo,Balance General,Representa un pasivo. Acreedores no comerciales
+Aguinaldos,Pérdida/deudor,Estado de Resultados/Gasto de Administración/Balance de Saldos,Aguinaldos
+Aguinaldos administración,Pérdida/deudor,Estado de Resultados/Gasto de Administración/Balance de Saldos,Aguinaldos administración
+Aguinaldos sala de ventas,Pérdida/deudor,Estado de Resultados/Gasto de Venta/Balance de Saldos,Aguinaldos sala de ventas
+Aguinaldos de fábrica,Pérdida/deudor,Estado de Resultados/Costo de Producción/Balance de Saldos,Aguinaldos de fábrica
+Almacén de envases,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Almacén de envases
+Alquileres cobrados,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Alquileres cobrados
+Alquileres ganados,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Alquileres ganados
+Alquileres percibidos,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Alquileres percibidos
+Alquileres producto,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Alquileres producto
+Alquileres devengados,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Alquileres devengados
+Alquileres cobrados por anticipado,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Alquileres cobrados por anticipado
+Alquileres percibidos no devengados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Alquileres percibidos no devengados
+Alquileres,Deudor/activo,Balance General/Balance de Saldos,Alquileres
+Alquileres de oficina,Gasto/deudor,Estado de Resultados/Balance de Saldos,Alquileres de oficina
+Alquileres de sala de ventas,Gasto/deudor,Estado de Resultados/Balance de Saldos,Alquileres de sala de ventas
+Alquileres de fábrica,Gasto/deudor,Estado de Resultados/Balance de Saldos,Alquileres de fábrica
+Alquileres pagados por anticipado,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Alquileres pagados por anticipado
+Alquileres por pagar,Pasivo/acreedor,Balance General/Balance de Saldos,Alquileres por pagar
+Amortizaciones de oficina,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Amortizaciones de oficina
+Amortizaciones de sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Amortizaciones de sala de ventas
+Amortizaciones de fábrica,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Amortizaciones de fábrica
+Amortización crédito mercantil,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización crédito mercantil
+Amortización derecho de llave,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización derecho de llave
+Amortización gastos de constitución,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización gastos de constitución
+Amortización gastos de instalación fábrica,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización gastos de instalación fábrica
+Amortización gastos de instalación sala de ventas,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización gastos de instalación sala de ventas
+Amortización gastos de instalación administración,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización gastos de instalación administración
+Amortización gastos de instalación oficina,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización gastos de instalación oficina
+Amortización gastos de organización,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización gastos de organización
+Amortización marcas y patentes,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización marcas y patentes
+Amortización de patentes,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización de patentes
+Amortización renombre comercial,Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización renombre comercial
+Amortización acumulada (cualquier activo intangible),Activo amortizable/deudor,Balance General/Balance de Saldos,Amortización acumulada (cualquier activo intangible)
+Anticipo de clientes,Pasivo/acreedor,Balance General/Balance de Saldos,Anticipo de clientes
+Anticipo sobre ventas,Pasivo/acreedor,Balance General/Balance de Saldos,Anticipo sobre ventas
+Activos inservibles,Activo/pérdida/deudor,Balance General/Estado de Resultados/Balance de Saldos,Activos inservibles
+Anticipo a proveedores,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Anticipo a proveedores
+Anticipo sobre compras,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Anticipo sobre compras
+Anticipo sobre sueldos,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Anticipo sobre sueldos
+Artículos en proceso,Activo/deudor,Costo de Producción/Balance de Saldos,Representa un activo. Artículos en proceso
+Artículos terminados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Artículos terminados
+Artículos enviados en consignación,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Artículos enviados en consignación
+Artículos recibidos en consignación,Pasivo/acreedor,Balance General/Balance de Saldos,Artículos recibidos en consignación
+Bancos,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Bancos
+Bonificación incentivo administración,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Bonificación incentivo administración
+Bonificación incentivo sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Bonificación incentivo sala de ventas
+Bonificación incentivo de fábrica,Pérdida/deudor,Estado de Resultados/Costo de Producción/Balance de Saldos,Bonificación incentivo de fábrica
+Bonos comprados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Bonos comprados
+Bonos emitidos,Pasivo/acreedor,Balance General/Balance de Saldos,Bonos emitidos
+Bono 14 de fábrica,Pérdida/deudor,Estado de Resultados/Costo de Producción/Balance de Saldos,Bono 14 de fábrica
+Bono 14 de sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Bono 14 de sala de ventas
+Bono 14 de administración,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Bono 14 de administración
+Caja chica,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Caja chica
+Caja y bancos,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Caja y bancos
+Capital social,Pasivo/acreedor,Balance General/Balance de Saldos,Capital social
+Clientes,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Clientes
+Combustibles y lubricantes (existencia),Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Combustibles y lubricantes (existencia)
+Combustibles y lubricantes consumidos sala de ventas,Gasto/deudor,Estado de Resultados/Balance de Saldos,Combustibles y lubricantes consumidos sala de ventas
+Combustibles y lubricantes consumidos fábrica,Gasto/deudor,Costo de Producción/Balance de Saldos,Combustibles y lubricantes consumidos fábrica
+Combustibles y lubricantes consumidos administración,Gasto/deudor,Estado de Resultados/Balance de Saldos,Combustibles y lubricantes consumidos administración
+Comisiones cobradas por anticipado,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Comisiones cobradas por anticipado
+Comisiones percibidas no devengadas,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Comisiones percibidas no devengadas
+Comisiones pagadas por anticipado,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Comisiones pagadas por anticipado
+Comisiones gasto,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Comisiones gasto
+Comisiones,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Comisiones
+Comisiones percibidas,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Comisiones percibidas
+Comisiones por cobrar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Comisiones por cobrar
+Comisiones ganadas,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Comisiones ganadas
+Comisiones por pagar,Pasivo/acreedor,Balance General/Balance de Saldos,Comisiones por pagar
+Comisiones sobre ventas,Gasto/deudor,Estado de Resultados/Balance de Saldos,Comisiones sobre ventas
+Crédito fiscal,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Crédito fiscal
+Compras de materia prima,Activo/deudor,Balance General/Costo de Producción/Balance de Saldos,Representa un activo. Compras de materia prima
+Construcciones,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Construcciones
+Corresponsales (deudor),Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Corresponsales (deudor)
+Corresponsales (acreedor),Pasivo/acreedor,Balance General/Balance de Saldos,Corresponsales (acreedor)
+Correo teléfono y telégrafo,Gasto/deudor,Estado de Resultados/Balance de Saldos,Correo teléfono y telégrafo
+Cuentas malas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Cuentas malas
+Cuentas por pagar,Pasivo/acreedor,Balance General/Balance de Saldos,Cuentas por pagar
+Cuentas por pagar comerciales,Pasivo/acreedor,Balance General/Balance de Saldos,Cuentas por pagar comerciales
+Cuentas por pagar no comerciales,Pasivo/acreedor,Balance General/Balance de Saldos,Cuentas por pagar no comerciales
+Cuotas laborales,Pasivo/acreedor,Balance General/Balance de Saldos,Cuotas laborales
+Cuotas laborales por pagar,Pasivo/acreedor,Balance General/Balance de Saldos,Cuotas laborales por pagar
+Cuotas patronales fábrica,Gasto/deudor,Costo de Producción/Balance de Saldos,Cuotas patronales fábrica
+Cuotas patronales administración,Gasto/deudor,Estado de Resultados/Balance de Saldos,Cuotas patronales administración
+Cuotas patronales sala de ventas,Gasto/deudor,Estado de Resultados/Balance de Saldos,Cuotas patronales sala de ventas
+Cuotas patronales por pagar,Pasivo/acreedor,Balance General/Balance de Saldos,Cuotas patronales por pagar
+Cuenta promesa,Activo/Pasivo/deudor/acreedor,Balance General/Balance de Saldos,Cuenta promesa
+Débito fiscal,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Débito fiscal
+Depósitos en garantía,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Depósitos en garantía
+Depreciación fábrica,Pérdida/deudor,Costo de Producción/Estado de Resultados/Balance de Saldos,Depreciación fábrica
+Depreciación administración,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación administración
+Depreciación sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación sala de ventas
+Depreciación construcción fábrica,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación construcción fábrica
+Depreciación construcción de oficina,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación construcción de oficina
+Depreciación construcción de sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación construcción de sala de ventas
+Depreciación edificios fábrica,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación edificios fábrica
+Depreciación edificios de oficina,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación edificios de oficina
+Depreciación edificios de sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación edificios de sala de ventas
+Depreciación inmuebles de fábrica,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación inmuebles de fábrica
+Depreciación inmuebles de oficina,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación inmuebles de oficina
+Depreciación inmuebles de sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación inmuebles de sala de ventas
+Depreciación herramientas de oficina,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación herramientas de oficina
+Depreciación herramientas fábrica,Pérdida/deudor,Costo de Producción/Estado de Resultados/Balance de Saldos,Depreciación herramientas fábrica
+Depreciación herramientas sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación herramientas sala de ventas
+Depreciación vehículos de reparto,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación vehículos de reparto
+Depreciación vehículos de fábrica,Pérdida/deudor,Costo de Producción/Estado de Resultados/Balance de Saldos,Depreciación vehículos de fábrica
+Depreciación vehículos de oficina,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación vehículos de oficina
+Depreciación vehículos de sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación vehículos de sala de ventas
+Depreciación equipo de computación,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación equipo de computación
+Depreciación equipo de computación fábrica,Pérdida/deudor,Costo de Producción/Estado de Resultados/Balance de Saldos,Depreciación equipo de computación fábrica
+Depreciación equipo de computación sala de ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación equipo de computación sala de ventas
+Depreciación sistemas informáticos,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación sistemas informáticos
+Derecho de llave,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Derecho de llave
+Descuentos concedidos,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Descuentos concedidos
+Descuento sobre acciones,Pasivo/acreedor,Balance General/Balance de Saldos,Descuento sobre acciones
+Descuento sobre ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Descuento sobre ventas
+Descuento sobre compras,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Descuento sobre compras
+Descuento sobre compras de materia prima,Ganancia/acreedor,Costo de Producción/Estado de Resultados/Balance de Saldos,Descuento sobre compras de materia prima
+Descuentos percibidos,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Descuentos percibidos
+Deudores,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Deudores
+Deudores diversos,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Deudores diversos
+Deudores empleados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Deudores empleados
+Devolución y rebaja sobre ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Devolución y rebaja sobre ventas
+Devolución y rebaja sobre compras,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Devolución y rebaja sobre compras
+Devolución y rebaja sobre compras de materia prima,Ganancia/acreedor,Costo de Producción/Estado de Resultados/Balance de Saldos,Devolución y rebaja sobre compras de materia prima
+Dividendos percibidos,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Dividendos percibidos
+Dividendos no retirados,Pasivo/acreedor,Balance General/Balance de Saldos,Dividendos no retirados
+Dividendos por pagar,Pasivo/acreedor,Balance General/Balance de Saldos,Dividendos por pagar
+Dividendos ganados,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Dividendos ganados
+Dividendos por cobrar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Dividendos por cobrar
+Divisas adquiridas,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Divisas adquiridas
+Documentos por cobrar a corto plazo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Documentos por cobrar a corto plazo
+Documentos por cobrar a largo plazo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Documentos por cobrar a largo plazo
+Documentos por pagar a corto plazo,Pasivo/acreedor,Balance General/Balance de Saldos,Documentos por pagar a corto plazo
+Documentos por pagar a largo plazo,Pasivo/acreedor,Balance General/Balance de Saldos,Documentos por pagar a largo plazo
+Documentos endosados,Pasivo/acreedor,Balance General/Balance de Saldos,Documentos endosados
+Documentos descontados,Pasivo/acreedor,Balance General/Balance de Saldos,Documentos descontados
+Documentos por cobrar descontados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Documentos por cobrar descontados
+Donativos,Pérdida,Estado de Resultados,Donativos
+Donativos pagados,Pérdida,Estado de Resultados,Donativos pagados
+Donativos por pagar,Pasivo,Balance General,Donativos por pagar
+Donativos percibidos,Ganancia,Estado de Resultados,Donativos percibidos
+Edificios,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Edificios
+Efectos descontados,Pasivo,Balance General,Efectos descontados
+Efectos endosados,Pasivo,Balance General,Efectos endosados
+Efectos por cobrar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Efectos por cobrar
+Efectos por cobrar a corto plazo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Efectos por cobrar a corto plazo
+Efectos por cobrar a largo plazo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Efectos por cobrar a largo plazo
+Efectos por pagar,Pasivo,Balance General,Efectos por pagar
+Efectos por pagar a corto plazo,Pasivo,Balance General,Efectos por pagar a corto plazo
+Efectos por pagar a largo plazo,Pasivo,Balance General,Efectos por pagar a largo plazo
+Efectos retenidos sobre facturas especiales,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Efectos retenidos sobre facturas especiales
+Energía eléctrica de fábrica,Gasto,Costo de Producción,Energía eléctrica de fábrica
+Energía eléctrica de oficina,Gasto,Estado de Resultados,Energía eléctrica de oficina
+Energía eléctrica de sala de ventas,Gasto,Estado de Resultados,Energía eléctrica de sala de ventas
+Envases en departamento de producción,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Envases en departamento de producción
+Equipo de computación,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Equipo de computación
+Equipo de reparto,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Equipo de reparto
+Especies fiscales,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Especies fiscales
+Estimación para cuentas incobrables,Contra activo,Balance General,Estimación para cuentas incobrables
+Estimación para cuentas malas,Contra activo,Balance General,Estimación para cuentas malas
+Existencia en caja,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencia en caja
+Fletes sobre compras,Gasto,Costo de Producción/Estado de Resultados,Fletes sobre compras
+Fletes sobre compras de materia prima,Gasto,Costo de Producción,Fletes sobre compras de materia prima
+Fórmulas patentadas,Activo intangible/deudor,Balance General/Balance de Saldos,Fórmulas patentadas
+Fuerza motriz,Gasto,Estado de Resultados,Fuerza motriz
+Fuerza motriz de fábrica,Gasto,Costo de Producción,Fuerza motriz de fábrica
+Fuerza motriz de sala de ventas,Gasto,Estado de Resultados,Fuerza motriz de sala de ventas
+Fuerza motriz de oficina,Gasto,Estado de Resultados,Fuerza motriz de oficina
+Gastos diversos fábrica,Gasto,Costo de Producción,Gastos diversos fábrica
+Gastos diversos administración,Gasto,Estado de Resultados,Gastos diversos administración
+Gastos diversos sala de ventas,Gasto,Estado de Resultados,Gastos diversos sala de ventas
+Gastos generales,Gasto,Estado de Resultados,Gastos generales
+Gastos misceláneos fábrica,Gasto,Costo de Producción,Gastos misceláneos fábrica
+Gastos misceláneos administración,Gasto,Estado de Resultados,Gastos misceláneos administración
+Gastos misceláneos sala de ventas,Gasto,Estado de Resultados,Gastos misceláneos sala de ventas
+Gastos publicitarios,Gasto,Estado de Resultados,Gastos publicitarios
+Gastos sobre compras,Gasto,Costo de Producción/Estado de Resultados,Gastos sobre compras
+Gastos sobre compras de materia prima,Gasto,Costo de Producción,Gastos sobre compras de materia prima
+Grasas y aceites en existencia,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Grasas y aceites en existencia
+Grasas y aceites consumidos,Gasto,Costo de Producción/Estado de Resultados,Grasas y aceites consumidos
+Grasas y aceites consumidos fábrica,Gasto,Costo de Producción,Grasas y aceites consumidos fábrica
+Grasas y aceites consumidos sala de ventas,Gasto,Estado de Resultados,Grasas y aceites consumidos sala de ventas
+Herramientas,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Herramientas
+Hipotecas,Pasivo,Balance General,Hipotecas
+Hipotecas a corto plazo,Pasivo,Balance General,Hipotecas a corto plazo
+Hipotecas a largo plazo,Pasivo a Largo Plazo/deudor,Balance General/Balance de Saldos,Hipotecas a largo plazo
+IGSS por pagar,Pasivo/deudor,Balance General/Balance de Saldos,IGSS por pagar
+IGSS laboral,Gasto/pérdida,Estado de Resultados/Costo de Producción,IGSS laboral
+Impuestos aduanales sobre compras,Gasto/pérdida,Costo de Producción/Estado de Resultados,Impuestos aduanales sobre compras
+Impuestos aduanales sobre compras de materia prima,Gasto/pérdida,Costo de Producción,Impuestos aduanales sobre compras de materia prima
+Impuestos y contribuciones de fábrica,Gasto/pérdida,Costo de Producción,Impuestos y contribuciones de fábrica
+Impuestos y contribuciones de administración,Gasto/pérdida,Estado de Resultados,Impuestos y contribuciones de administración
+Impuestos y contribuciones de sala de ventas,Gasto/pérdida,Estado de Resultados,Impuestos y contribuciones de sala de ventas
+Impuestos y contribuciones por pagar,Pasivo/deudor,Balance General/Balance de Saldos,Impuestos y contribuciones por pagar
+ISR,Gasto/pérdida,Estado de Resultados,ISR
+ISR por pagar,Pasivo/deudor,Balance General/Balance de Saldos,ISR por pagar
+ISR pagado por anticipado,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. ISR pagado por anticipado
+ISO por acreditar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. ISO por acreditar
+ISO por pagar,Pasivo/deudor,Balance General/Balance de Saldos,ISO por pagar
+ISR retenido sobre facturas especiales,Pasivo/deudor,Balance General/Balance de Saldos,ISR retenido sobre facturas especiales
+ISR retenido sobre ganancias de capital,Pasivo/deudor,Balance General/Balance de Saldos,ISR retenido sobre ganancias de capital
+ISR retenido sobre ventas por acreditar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. ISR retenido sobre ventas por acreditar
+ISR retenido sobre pago de dividendos,Pasivo/deudor,Balance General/Balance de Saldos,ISR retenido sobre pago de dividendos
+ISR sobre ganancias de capital,Gasto/pérdida,Estado de Resultados,ISR sobre ganancias de capital
+ISR trimestral,Gasto/pérdida,Estado de Resultados,ISR trimestral
+Indemnización,Gasto/pérdida,Estado de Resultados/Costo de Producción,Indemnización
+Inmuebles,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Inmuebles
+Intereses gasto,Gasto/pérdida,Estado de Resultados,Intereses gasto
+Intereses por cobrar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Intereses por cobrar
+Intereses percibidos,Ganancia,Estado de Resultados,Intereses percibidos
+Intereses no devengados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Intereses no devengados
+Intereses pagados por anticipado,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Intereses pagados por anticipado
+Inversiones a corto plazo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Inversiones a corto plazo
+Inversiones a largo plazo,Activo a Largo Plazo/deudor,Balance General/Balance de Saldos,Inversiones a largo plazo
+Inversiones en valores,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Inversiones en valores
+Inventario de mercaderías,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Inventario de mercaderías
+Inventarios,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Inventarios
+Inventarios de materias primas,Activo/deudor,Costo de Producción/Balance de Saldos,Representa un activo. Inventarios de materias primas
+Inventarios de productos terminados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Inventarios de productos terminados
+Inventarios en consignación,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Inventarios en consignación
+IVA acreditable,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. IVA acreditable
+IVA débito,Pasivo/deudor,Balance General/Balance de Saldos,IVA débito
+IVA por acreditar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. IVA por acreditar
+IVA por cobrar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. IVA por cobrar
+IVA retenido sobre facturas especiales,Pasivo/deudor,Balance General/Balance de Saldos,IVA retenido sobre facturas especiales
+IVA acreedor,Pasivo/deudor,Balance General/Balance de Saldos,IVA acreedor
+Mano de obra directa,Gasto/pérdida,Costo de Producción,Mano de obra directa
+Marcas y patentes,Activo Intangible/deudor,Balance General/Balance de Saldos,Marcas y patentes
+Materia prima,Activo/deudor,Costo de Producción/Balance de Saldos,Representa un activo. Materia prima
+Materia prima estropeada,Pérdida,Costo de Producción/Estado de Resultados,Materia prima estropeada
+Materia prima inservible,Pérdida,Costo de Producción/Estado de Resultados,Materia prima inservible
+Materia prima en aduana,Activo/deudor,Costo de Producción/Balance de Saldos,Representa un activo. Materia prima en aduana
+Materia prima en tránsito,Activo/deudor,Costo de Producción/Balance de Saldos,Representa un activo. Materia prima en tránsito
+Material de empaque en existencia,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Material de empaque en existencia
+Material de empaque consumido,Gasto/pérdida,Costo de Producción/Estado de Resultados,Material de empaque consumido
+Material de empaque consumido en fábrica,Gasto/deudor,Costo de Producción/Balance de Saldos,Material de empaque consumido en fábrica
+Mercaderías enviadas en consignación,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Mercaderías enviadas en consignación
+Mercaderías recibidas en consignación,Pasivo/acreedor,Balance General/Balance de Saldos,Mercaderías recibidas en consignación
+Mercaderías,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Mercaderías
+Mercaderías en aduana,Activo/deudor,Costo de Producción/Balance de Saldos,Representa un activo. Mercaderías en aduana
+Mobiliario y equipo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Mobiliario y equipo
+Mercadería inservible,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Mercadería inservible
+Multas y recargos,Gasto/deudor,Estado de Resultados/Balance de Saldos,Multas y recargos
+Papelería y útiles en existencia,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Papelería y útiles en existencia
+Papelería y útiles consumidos,Gasto/deudor,Estado de Resultados/Balance de Saldos,Papelería y útiles consumidos
+Pérdidas acumuladas,Pérdida/deudor,Balance General/Balance de Saldos,Pérdidas acumuladas
+Pérdida de capital,Pérdida/deudor,Balance General/Balance de Saldos,Pérdida de capital
+Pérdida en negociación de activos,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Pérdida en negociación de activos
+Préstamos bancarios,Pasivo/acreedor,Balance General/Balance de Saldos,Préstamos bancarios
+Préstamos bancarios a corto plazo,Pasivo/acreedor,Balance General/Balance de Saldos,Préstamos bancarios a corto plazo
+Préstamos bancarios a largo plazo,Pasivo a Largo Plazo/acreedor,Balance General/Balance de Saldos,Préstamos bancarios a largo plazo
+Primas de seguros,Gasto/deudor,Estado de Resultados/Balance de Saldos,Primas de seguros
+Prima sobre acciones,Pasivo/acreedor,Balance General/Balance de Saldos,Prima sobre acciones
+Productos percibidos no devengados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Productos percibidos no devengados
+Productos por cobrar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Productos por cobrar
+Publicidad,Gasto/deudor,Estado de Resultados/Balance de Saldos,Publicidad
+Proveedores,Pasivo/acreedor,Balance General/Balance de Saldos,Proveedores
+Proveeduría en existencia,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Proveeduría en existencia
+Provisión para cuentas incobrables,Contra activo,Balance General,Provisión para cuentas incobrables
+Publicidad pagada por anticipado,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Publicidad pagada por anticipado
+Propaganda pagada por anticipado,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Propaganda pagada por anticipado
+Recuperación de créditos,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Recuperación de créditos
+Regalías,Gasto/deudor,Estado de Resultados/Balance de Saldos,Regalías
+Regalías percibidas,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Regalías percibidas
+Renombre comercial,Activo Intangible/deudor,Balance General/Balance de Saldos,Renombre comercial
+Reparación y mantenimiento de maquinaria,Gasto/deudor,Estado de Resultados/Balance de Saldos,Reparación y mantenimiento de maquinaria
+Repuestos y accesorios en existencia,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Repuestos y accesorios en existencia
+Repuestos y accesorios consumidos en fábrica,Gasto/deudor,Costo de Producción/Balance de Saldos,Repuestos y accesorios consumidos en fábrica
+Reservas,Pasivo/acreedor,Balance General/Balance de Saldos,Reservas
+Reserva de capital,Pasivo/acreedor,Balance General/Balance de Saldos,Reserva de capital
+Reserva legal,Pasivo/acreedor,Balance General/Balance de Saldos,Reserva legal
+Reserva para contingencias,Pasivo/acreedor,Balance General/Balance de Saldos,Reserva para contingencias
+Reserva para depreciación,Contra activo,Balance General,Reserva para depreciación
+Reserva para dividendos,Pasivo/acreedor,Balance General/Balance de Saldos,Reserva para dividendos
+Reserva para inventarios obsoletos,Contra activo,Balance General,Reserva para inventarios obsoletos
+Reserva para pensiones,Pasivo/acreedor,Balance General/Balance de Saldos,Reserva para pensiones
+Reserva para vacaciones,Pasivo/acreedor,Balance General/Balance de Saldos,Reserva para vacaciones
+Reserva voluntaria,Pasivo/acreedor,Balance General/Balance de Saldos,Reserva voluntaria
+Reserva para riesgos profesionales,Pasivo/acreedor,Balance General/Balance de Saldos,Reserva para riesgos profesionales
+Reservas facultativas,Pasivo/acreedor,Balance General/Balance de Saldos,Reservas facultativas
+Reservas estatutarias,Pasivo/acreedor,Balance General/Balance de Saldos,Reservas estatutarias
+Retiros de socios,Pasivo/acreedor,Balance General/Balance de Saldos,Retiros de socios
+Retiros de propietario,Pasivo/acreedor,Balance General/Balance de Saldos,Retiros de propietario
+Retiros de accionistas,Pasivo/acreedor,Balance General/Balance de Saldos,Retiros de accionistas
+Retiros de dividendos,Pasivo/acreedor,Balance General/Balance de Saldos,Retiros de dividendos
+Retiros de utilidades,Pasivo/acreedor,Balance General/Balance de Saldos,Retiros de utilidades
+Retiros de inventarios,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Retiros de inventarios
+Salarios socios,Gasto/deudor,Estado de Resultados/Balance de Saldos,Salarios socios
+Salarios administración,Gasto/deudor,Estado de Resultados/Balance de Saldos,Salarios administración
+Salarios por pagar,Pasivo/acreedor,Balance General/Balance de Saldos,Salarios por pagar
+Suministros en existencia,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Suministros en existencia
+Suministros consumidos en fábrica,Gasto/deudor,Costo de Producción/Balance de Saldos,Suministros consumidos en fábrica
+Suministros consumidos en sala de ventas,Gasto/deudor,Estado de Resultados/Balance de Saldos,Suministros consumidos en sala de ventas
+Superávit acumulado,Patrimonio/acreedor,Balance General,Superávit acumulado
+Superávit por revaluación de activos,Patrimonio/acreedor,Balance General,Superávit por revaluación de activos
+Terrenos,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Terrenos
+Timbre de prensa,Gasto/deudor,Estado de Resultados/Balance de Saldos,Timbre de prensa
+Útiles y enseres en existencia,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Útiles y enseres en existencia
+Útiles y enseres consumidos,Gasto/deudor,Estado de Resultados/Balance de Saldos,Útiles y enseres consumidos
+Utilidad del ejercicio,Patrimonio/acreedor,Balance General,Utilidad del ejercicio
+Utilidades no distribuidas,Patrimonio/acreedor,Balance General,Utilidades no distribuidas
+Utilidades retenidas,Patrimonio/acreedor,Balance General,Utilidades retenidas
+Valores mobiliarios,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Valores mobiliarios
+Vehículos,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Vehículos
+Ventas por realizar,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Ventas por realizar
+Viáticos,Gasto/deudor,Estado de Resultados/Balance de Saldos,Viáticos
+Propaganda,Gasto/deudor,Estado de Resultados/Balance de Saldos,Propaganda
+Depreciación máquinas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación máquinas
+Depreciación maquinaria,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Depreciación maquinaria
+Devoluciones y rebajas sobre ventas,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Devoluciones y rebajas sobre ventas
+Devoluciones y rebajas sobre compras,Ganancia/acreedor,Estado de Resultados/Balance de Saldos,Devoluciones y rebajas sobre compras
+Devoluciones y rebajas sobre compras de materia prima,Ganancia/acreedor,Costo de Producción/Estado de Resultados/Balance de Saldos,Devoluciones y rebajas sobre compras de materia prima
+Existencias en caja,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en caja
+Existencias en bancos,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en bancos
+Existencias en mercaderías,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en mercaderías
+Existencias en artículos en proceso,Activo/deudor,Costo de Producción/Balance de Saldos,Representa un activo. Existencias en artículos en proceso
+Existencias en materia prima,Activo/deudor,Costo de Producción/Balance de Saldos,Representa un activo. Existencias en materia prima
+Existencias en artículos terminados,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en artículos terminados
+Existencias en corto plazo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en corto plazo
+Existencias en inversiones a corto plazo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en inversiones a corto plazo
+Existencias en inversiones a largo plazo,Activo a Largo Plazo/deudor,Balance General/Balance de Saldos,Existencias en inversiones a largo plazo
+Existencias en inversiones en bonos a corto plazo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en inversiones en bonos a corto plazo
+Existencias en inversiones en bonos a largo plazo,Activo a Largo Plazo/deudor,Balance General/Balance de Saldos,Existencias en inversiones en bonos a largo plazo
+Existencias en seguros no vencidos,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en seguros no vencidos
+Existencias en seguros vencidos administración,Gasto/deudor,Estado de Resultados/Balance de Saldos,Existencias en seguros vencidos administración
+Existencias en seguros vencidos sala de ventas,Gasto/deudor,Estado de Resultados/Balance de Saldos,Existencias en seguros vencidos sala de ventas
+Existencias en reparación y mantenimiento maquinaria,Gasto/deudor,Estado de Resultados/Balance de Saldos,Existencias en reparación y mantenimiento maquinaria
+Existencias en suministros,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en suministros
+Existencias en repuestos y accesorios,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en repuestos y accesorios
+Existencias en repuestos y accesorios consumidos fábrica,Gasto/deudor,Costo de Producción/Balance de Saldos,Existencias en repuestos y accesorios consumidos fábrica
+Existencias en mobiliario y equipo,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en mobiliario y equipo
+Existencias en mobiliario y equipo inservible,Pérdida/deudor,Estado de Resultados/Balance de Saldos,Existencias en mobiliario y equipo inservible
+Existencias en papelera y útiles,Activo/deudor,Balance General/Balance de Saldos,Representa un activo. Existencias en papelera y útiles
+Existencias en pérdidas acumuladas,Pérdida/deudor,Balance General/Balance de Saldos,Existencias en pérdidas acumuladas
+Existencias en préstamos bancarios,Pasivo/acreedor,Balance General/Balance de Saldos,Existencias en préstamos bancarios
+Existencias en primas de seguros,Gasto/deudor,Estado de Resultados/Balance de Saldos,Existencias en primas de seguros
+Existencias en reserva para seguridad social,Pasivo/acreedor,Balance General/Balance de Saldos,Existencias en reserva para seguridad social
+Existencias en reserva para seguros,Pasivo/acreedor,Balance General/Balance de Saldos,Existencias en reserva para seguros
+Existencias en reserva para sueldos,Pasivo/acreedor,Balance General,Existencias en reserva para sueldos
+Existencias en reserva para vacaciones,Pasivo/acreedor,Balance General,Existencias en reserva para vacaciones
+Existencias en reserva para depreciación,Contra activo,Balance General,Existencias en reserva para depreciación
+Existencias en reserva para gastos,Pasivo/acreedor,Balance General,Existencias en reserva para gastos
+Existencias en reserva para beneficios sociales,Pasivo/acreedor,Balance General,Existencias en reserva para beneficios sociales
+Existencias en reserva para dividendos,Pasivo/acreedor,Balance General,Existencias en reserva para dividendos
+Existencias en reserva para inversiones,Pasivo/acreedor,Balance General,Existencias en reserva para inversiones
+Existencias en reserva para mantenimiento,Pasivo/acreedor,Balance General,Existencias en reserva para mantenimiento
+Existencias en reserva para préstamos,Pasivo/acreedor,Balance General,Existencias en reserva para préstamos
+Existencias en reserva para retiro de socios,Pasivo/acreedor,Balance General,Existencias en reserva para retiro de socios
+Existencias en sociedades,Activo/deudor,Balance General,Representa un activo. Existencias en sociedades
+Existencias en socios,Activo/deudor,Balance General,Representa un activo. Existencias en socios
+Existencias en viáticos,Gasto/deudor,Estado de Resultados,Existencias en viáticos
+Formulas patentadas,Activo Intangible/deudor,Balance General,Formulas patentadas
+Fuerza motriz fábrica,Gasto/deudor,Costo de Producción,Fuerza motriz fábrica
+Fuerza motriz sala de ventas,Gasto/deudor,Estado de Resultados,Fuerza motriz sala de ventas
+Gastos de constitución,Activo Amortizable/deudor,Balance General,Gastos de constitución
+Gastos de instalación,Activo Amortizable/deudor,Balance General,Gastos de instalación
+Gastos de instalación fábrica,Activo Amortizable/deudor,Balance General,Gastos de instalación fábrica
+Gastos de instalación sala de ventas,Activo Amortizable/deudor,Balance General,Gastos de instalación sala de ventas
+Gastos de instalación administración,Activo Amortizable/deudor,Balance General,Gastos de instalación administración
+Gastos de instalación oficina,Activo Amortizable/deudor,Balance General,Gastos de instalación oficina
+Impuesto único sobre inmuebles de sala de ventas,Gasto/deudor,Estado de Resultados,Impuesto único sobre inmuebles de sala de ventas
+Impuesto único sobre inmuebles de administración,Gasto/deudor,Estado de Resultados,Impuesto único sobre inmuebles de administración
+Impuesto sobre la renta,Gasto/deudor,Estado de Resultados,Impuesto sobre la renta
+Impuesto sobre la renta retenido sobre facturas especiales,Pasivo/acreedor,Balance General,Impuesto sobre la renta retenido sobre facturas especiales
+Impuesto sobre la renta retenido sobre ganancias de capital,Pasivo/acreedor,Balance General,Impuesto sobre la renta retenido sobre ganancias de capital
+Impuesto sobre la renta retenido sobre ventas por acreditar,Activo/deudor,Balance General,Representa un activo. Impuesto sobre la renta retenido sobre ventas por acreditar
+Impuesto sobre la renta retenido sobre pago de dividendos,Pasivo/acreedor,Balance General,Impuesto sobre la renta retenido sobre pago de dividendos
+Impuesto sobre la renta sobre ganancias de capital,Gasto/deudor,Estado de Resultados,Impuesto sobre la renta sobre ganancias de capital
+Impuesto sobre la renta trimestral,Gasto/deudor,Estado de Resultados,Impuesto sobre la renta trimestral
+Indemnización fábrica,Gasto/deudor,Costo de Producción,Indemnización fábrica
+Indemnización sala de ventas,Gasto/deudor,Estado de Resultados,Indemnización sala de ventas
+Indemnización administración,Gasto/deudor,Estado de Resultados,Indemnización administración
+Inversiones en bonos a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en bonos a corto plazo
+Inversiones en bonos a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en bonos a largo plazo
+Inversiones mobiliarias,Activo/deudor,Balance General,Representa un activo. Inversiones mobiliarias
+Inversiones mobiliarias a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones mobiliarias a corto plazo
+Inversiones mobiliarias a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones mobiliarias a largo plazo
+Inversiones inmobiliarias,Activo/deudor,Balance General,Representa un activo. Inversiones inmobiliarias
+Inversiones inmobiliarias a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones inmobiliarias a corto plazo
+Inversiones inmobiliarias a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones inmobiliarias a largo plazo
+Inversiones en seguros no vencidos,Activo/deudor,Balance General,Representa un activo. Inversiones en seguros no vencidos
+Inversiones en seguros vencidos,Gasto/deudor,Estado de Resultados,Inversiones en seguros vencidos
+Inventarios en mercaderías,Activo/deudor,Balance General,Representa un activo. Inventarios en mercaderías
+Inventarios en artículos en proceso,Activo/deudor,Costo de Producción,Representa un activo. Inventarios en artículos en proceso
+Inventarios en materia prima,Activo/deudor,Costo de Producción,Representa un activo. Inventarios en materia prima
+Inventarios en artículos terminados,Activo/deudor,Balance General,Representa un activo. Inventarios en artículos terminados
+Inventarios en corto plazo,Activo/deudor,Balance General,Representa un activo. Inventarios en corto plazo
+Inventarios en inversiones a corto plazo,Activo/deudor,Balance General,Representa un activo. Inventarios en inversiones a corto plazo
+Inventarios en inversiones a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inventarios en inversiones a largo plazo
+Inventarios en inversiones en bonos a corto plazo,Activo/deudor,Balance General,Representa un activo. Inventarios en inversiones en bonos a corto plazo
+Inventarios en inversiones en bonos a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inventarios en inversiones en bonos a largo plazo
+Inventarios en seguros no vencidos,Activo/deudor,Balance General,Representa un activo. Inventarios en seguros no vencidos
+Inventarios en seguros vencidos administración,Gasto/deudor,Estado de Resultados,Inventarios en seguros vencidos administración
+Inventarios en seguros vencidos sala de ventas,Gasto/deudor,Estado de Resultados,Inventarios en seguros vencidos sala de ventas
+Inventarios en reparación y mantenimiento maquinaria,Gasto/deudor,Costo de Producción/Estado de Resultados,Inventarios en reparación y mantenimiento maquinaria
+Inventarios en suministros,Activo/deudor,Balance General,Representa un activo. Inventarios en suministros
+Inventarios en repuestos y accesorios,Activo/deudor,Balance General,Representa un activo. Inventarios en repuestos y accesorios
+Inventarios en repuestos y accesorios consumidos,Gasto/deudor,Costo de Producción/Estado de Resultados,Inventarios en repuestos y accesorios consumidos
+Inventarios en mobiliario y equipo,Activo/deudor,Balance General,Representa un activo. Inventarios en mobiliario y equipo
+Inventarios en mobiliario y equipo inservible,Pérdida/deudor,Estado de Resultados,Inventarios en mobiliario y equipo inservible
+Inventarios en papelera y útiles,Activo/deudor,Balance General,Representa un activo. Inventarios en papelera y útiles
+Inventarios en pérdidas acumuladas,Pérdida/deudor,Balance General,Inventarios en pérdidas acumuladas
+Inventarios en préstamos bancarios,Pasivo/acreedor,Balance General,Inventarios en préstamos bancarios
+Inventarios en primas de seguros,Activo/deudor,Balance General,Representa un activo. Inventarios en primas de seguros
+Inventarios en reserva para seguridad social,Pasivo/acreedor,Balance General,Inventarios en reserva para seguridad social
+Inventarios en reserva para seguros,Pasivo/acreedor,Balance General,Inventarios en reserva para seguros
+Inventarios en reserva para sueldos,Pasivo/acreedor,Balance General,Inventarios en reserva para sueldos
+Inventarios en reserva para vacaciones,Pasivo/acreedor,Balance General,Inventarios en reserva para vacaciones
+Inventarios en reserva para depreciación,Contra activo,Balance General,Inventarios en reserva para depreciación
+Inventarios en reserva para gastos,Pasivo/acreedor,Balance General,Inventarios en reserva para gastos
+Inventarios en reserva para beneficios sociales,Pasivo/acreedor,Balance General,Inventarios en reserva para beneficios sociales
+Inventarios en reserva para dividendos,Pasivo/acreedor,Balance General,Inventarios en reserva para dividendos
+Inventarios en reserva para inversiones,Pasivo/acreedor,Balance General,Inventarios en reserva para inversiones
+Inventarios en reserva para mantenimiento,Pasivo/acreedor,Balance General,Inventarios en reserva para mantenimiento
+Inventarios en reserva para préstamos,Pasivo/acreedor,Balance General,Inventarios en reserva para préstamos
+Inventarios en reserva para retiro de socios,Pasivo/acreedor,Balance General,Inventarios en reserva para retiro de socios
+Inventarios en sociedades,Activo/deudor,Balance General,Representa un activo. Inventarios en sociedades
+Inventarios en socios,Activo/deudor,Balance General,Representa un activo. Inventarios en socios
+Inventarios en viáticos,Gasto/deudor,Estado de Resultados,Inventarios en viáticos
+Inversiones,Activo/deudor,Balance General,Representa un activo. Inversiones
+Inversiones en bonos,Activo/deudor,Balance General,Representa un activo. Inversiones en bonos
+Inversiones en acciones,Activo/deudor,Balance General,Representa un activo. Inversiones en acciones
+Inversiones en acciones a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en acciones a corto plazo
+Inversiones en acciones a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en acciones a largo plazo
+Inversiones en acciones preferentes,Activo/deudor,Balance General,Representa un activo. Inversiones en acciones preferentes
+Inversiones en acciones preferentes a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en acciones preferentes a corto plazo
+Inversiones en acciones preferentes a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en acciones preferentes a largo plazo
+Inversiones en bonos hipotecarios,Activo/deudor,Balance General,Representa un activo. Inversiones en bonos hipotecarios
+Inversiones en bonos hipotecarios a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en bonos hipotecarios a corto plazo
+Inversiones en bonos hipotecarios a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en bonos hipotecarios a largo plazo
+Inversiones en bonos gubernamentales,Activo/deudor,Balance General,Representa un activo. Inversiones en bonos gubernamentales
+Inversiones en bonos gubernamentales a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en bonos gubernamentales a corto plazo
+Inversiones en bonos gubernamentales a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en bonos gubernamentales a largo plazo
+Inversiones en fondos de inversión,Activo/deudor,Balance General,Representa un activo. Inversiones en fondos de inversión
+Inversiones en fondos de inversión a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en fondos de inversión a corto plazo
+Inversiones en fondos de inversión a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en fondos de inversión a largo plazo
+Inversiones en bienes raíces,Activo/deudor,Balance General,Representa un activo. Inversiones en bienes raíces
+Inversiones en bienes raíces a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en bienes raíces a corto plazo
+Inversiones en bienes raíces a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en bienes raíces a largo plazo
+Inversiones en seguros,Activo/deudor,Balance General,Representa un activo. Inversiones en seguros
+Inversiones en seguros a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en seguros a corto plazo
+Inversiones en seguros a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en seguros a largo plazo
+Inversiones en títulos valores,Activo/deudor,Balance General,Representa un activo. Inversiones en títulos valores
+Inversiones en títulos valores a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en títulos valores a corto plazo
+Inversiones en títulos valores a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en títulos valores a largo plazo
+Inversiones en valores mobiliarios,Activo/deudor,Balance General,Representa un activo. Inversiones en valores mobiliarios
+Inversiones en valores mobiliarios a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en valores mobiliarios a corto plazo
+Inversiones en valores mobiliarios a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en valores mobiliarios a largo plazo
+Inversiones en valores negociables,Activo/deudor,Balance General,Representa un activo. Inversiones en valores negociables
+Inversiones en valores negociables a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones en valores negociables a corto plazo
+Inversiones en valores negociables a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones en valores negociables a largo plazo
+Libros y publicaciones (existencia),Activo/deudor,Balance General,Representa un activo. Libros y publicaciones (existencia)
+Libros y publicaciones consumidos,Gasto/deudor,Estado de Resultados,Libros y publicaciones consumidos
+Máquinas,Activo/deudor,Balance General,Representa un activo. Máquinas
+Muebles y enseres,Activo/deudor,Balance General,Representa un activo. Muebles y enseres
+Mobiliario y equipo de oficina,Activo/deudor,Balance General,Representa un activo. Mobiliario y equipo de oficina
+Mobiliario y equipo de sala de ventas,Activo/deudor,Balance General,Representa un activo. Mobiliario y equipo de sala de ventas
+Mobiliario y equipo de fábrica,Activo/deudor,Balance General,Representa un activo. Mobiliario y equipo de fábrica
+Mobiliario y equipo inservible,Pérdida/deudor,Estado de Resultados,Mobiliario y equipo inservible
+Mobiliario y equipo consumido administración,Gasto/deudor,Estado de Resultados,Mobiliario y equipo consumido administración
+Mobiliario y equipo consumido sala de ventas,Gasto/deudor,Estado de Resultados,Mobiliario y equipo consumido sala de ventas
+Mobiliario y equipo consumido fábrica,Gasto/deudor,Costo de Producción,Mobiliario y equipo consumido fábrica
+Mobiliario y equipo inservible administración,Pérdida/deudor,Estado de Resultados,Mobiliario y equipo inservible administración
+Mobiliario y equipo inservible sala de ventas,Pérdida/deudor,Estado de Resultados,Mobiliario y equipo inservible sala de ventas
+Mobiliario y equipo inservible fábrica,Pérdida/deudor,Costo de Producción,Mobiliario y equipo inservible fábrica
+Monto de alquiler de oficina,Gasto/deudor,Estado de Resultados,Monto de alquiler de oficina
+Monto de alquiler de sala de ventas,Gasto/deudor,Estado de Resultados,Monto de alquiler de sala de ventas
+Monto de alquiler de fábrica,Gasto/deudor,Costo de Producción,Monto de alquiler de fábrica
+Monto de alquiler de bodega,Gasto/deudor,Estado de Resultados,Monto de alquiler de bodega
+Monto de alquiler de depósitos,Gasto/deudor,Estado de Resultados,Monto de alquiler de depósitos
+Monto de alquiler de estacionamiento,Gasto/deudor,Estado de Resultados,Monto de alquiler de estacionamiento
+Monto de alquiler de viviendas,Gasto/deudor,Estado de Resultados,Monto de alquiler de viviendas
+Monto de alquiler de maquinaria,Gasto/deudor,Estado de Resultados,Monto de alquiler de maquinaria
+Monto de alquiler de equipo de computación,Gasto/deudor,Estado de Resultados,Monto de alquiler de equipo de computación
+Monto de alquiler de vehículos,Gasto/deudor,Estado de Resultados,Monto de alquiler de vehículos
+Monto de alquiler de herramientas,Gasto/deudor,Estado de Resultados,Monto de alquiler de herramientas
+Monto de alquiler de suministros,Gasto/deudor,Estado de Resultados,Monto de alquiler de suministros
+Amortización gastos de inst. fábrica,Gasto/deudor,Costo de Producción,Amortización gastos de inst. fábrica
+Amortización gastos de inst. sala de ventas,Gasto/deudor,Estado de Resultados,Amortización gastos de inst. sala de ventas
+Amortización gastos de inst. administración,Gasto/deudor,Estado de Resultados,Amortización gastos de inst. administración
+Amortización gastos de inst. oficina,Gasto/deudor,Estado de Resultados,Amortización gastos de inst. oficina
+Amortización acum. (Cualquier activo intangible),Contra activo,Balance General,Amortización acum. (Cualquier activo intangible)
+Bono 14,Gasto/deudor,Estado de Resultados,Bono 14
+Capital autorizado,Patrimonio/acreedor,Balance General,Capital autorizado
+Combustibles y lubr. Cons. sala de ventas,Gasto/deudor,Estado de Resultados,Combustibles y lubr. Cons. sala de ventas
+Combustibles y lubr. Cons. fábrica,Gasto/deudor,Costo de Producción,Combustibles y lubr. Cons. fábrica
+Combustibles y lubr. Cons. administración,Gasto/deudor,Estado de Resultados,Combustibles y lubr. Cons. administración
+Depreciación equipo de comp. fábrica,Gasto/deudor,Costo de Producción,Depreciación equipo de comp. fábrica
+Devolución y rebajas sobre ventas,Ganancia/acreedor,Estado de Resultados,Devolución y rebajas sobre ventas
+Devolución y rebajas sobre compras,Pérdida/deudor,Estado de Resultados,Devolución y rebajas sobre compras
+Devolución y rebajas sobre compras de materia prima,Pérdida/deudor,Costo de Producción,Devolución y rebajas sobre compras de materia prima
+Efectivo en caja,Activo/deudor,Balance General,Representa un activo. Efectivo en caja
+Ganancia antes del impuesto,Ingreso/acreedor,Estado de Resultados,Ganancia antes del impuesto
+Ganancia después del impuesto,Ingreso/acreedor,Estado de Resultados,Ganancia después del impuesto
+Ganancia antes de reserva,Ingreso/acreedor,Estado de Resultados,Ganancia antes de reserva
+Impuesto antes de reserva,Gasto/deudor,Estado de Resultados,Impuesto antes de reserva
+Ganancia neta,Ingreso/acreedor,Estado de Resultados,Ganancia neta
+Gastos de organización,Activo Amortizable/deudor,Balance General,Gastos de organización
+IUSI sala de ventas,Gasto/deudor,Estado de Resultados,IUSI sala de ventas
+IUSI administración,Gasto/deudor,Estado de Resultados,IUSI administración
+Leasing,Pasivo/acreedor,Balance General,Leasing
+Letras por pagar,Pasivo/acreedor,Balance General,Letras por pagar
+Licencias,Activo Intangible/deudor,Balance General,Licencias
+Maquinarias y equipos,Activo/deudor,Balance General,Representa un activo. Maquinarias y equipos
+Prima de seguros,Gasto/deudor,Estado de Resultados,Prima de seguros
+Reparación y mantenimiento maquinaria,Gasto/deudor,Costo de Producción/Estado de Resultados,Reparación y mantenimiento maquinaria
+Repuestos y accesorios consumidos sala de ventas,Gasto/deudor,Estado de Resultados,Repuestos y accesorios consumidos sala de ventas
+Reservas voluntarias,Patrimonio/acreedor,Balance General,Reservas voluntarias
+Reservas legales,Patrimonio/acreedor,Balance General,Reservas legales
+Retenciones judiciales,Pasivo/acreedor,Balance General,Retenciones judiciales
+Retenciones administrativas,Pasivo/acreedor,Balance General,Retenciones administrativas
+Retenciones bancarias,Pasivo/acreedor,Balance General,Retenciones bancarias
+Retenciones fiscales,Pasivo/acreedor,Balance General,Retenciones fiscales
+Retenciones municipales,Pasivo/acreedor,Balance General,Retenciones municipales
+Retenciones notariales,Pasivo/acreedor,Balance General,Retenciones notariales
+Retenciones aduanales,Pasivo/acreedor,Balance General,Retenciones aduanales
+Retenciones ISR,Pasivo/acreedor,Balance General,Retenciones ISR
+Retenciones IVA,Pasivo/acreedor,Balance General,Retenciones IVA
+Retenciones ISO,Pasivo/acreedor,Balance General,Retenciones ISO
+Royalties,Gasto/deudor,Estado de Resultados,Royalties
+Seguros no vencidos,Activo/deudor,Balance General,Representa un activo. Seguros no vencidos
+Seguros vencidos administración,Gasto/deudor,Estado de Resultados,Seguros vencidos administración
+Seguros vencidos sala de ventas,Gasto/deudor,Estado de Resultados,Seguros vencidos sala de ventas
+Socio X cuenta personal,Activo/Pasivo,Balance General,Socio X cuenta personal
+Socio X cuenta particular,Activo/Pasivo,Balance General,Socio X cuenta particular
+Socio X cuenta promesa,Activo/Pasivo,Balance General,Socio X cuenta promesa
+Socio X cuenta beneficios,Activo/Pasivo,Balance General,Socio X cuenta beneficios
+Sueldos socios,Gasto/deudor,Estado de Resultados,Sueldos socios
+Sueldos administración,Gasto/deudor,Estado de Resultados,Sueldos administración
+Sueldos por pagar,Pasivo/acreedor,Balance General,Sueldos por pagar
+Suministros consumidos,Gasto/deudor,Costo de Producción/Estado de Resultados,Suministros consumidos
+Aguinaldos Administración,Gasto/deudor,Estado de Resultados,Aguinaldos Administración
+Amortización acumulada (Cualquier activo intangible),Activo Amortizable/deudor,Balance General,Amortización acumulada (Cualquier activo intangible)
+Combustibles y lubr. Cons. Fábrica,Gasto/deudor,Costo de Producción,Combustibles y lubr. Cons. Fábrica
+Depreciación cristalería,Gasto/deudor,Estado de Resultados,Depreciación cristalería
+Dev. y Reb. sobre ventas,Ingreso/acreedor,Estado de Resultados,Dev. y Reb. sobre ventas
+Dev. y Reb. sobre compras,Gasto/deudor,Estado de Resultados,Dev. y Reb. sobre compras
+Dev. y Reb. sobre compras de materia prima,Gasto/deudor,Costo de Producción,Dev. y Reb. sobre compras de materia prima
+Documentos por cobrar a CP (corto plazo),Activo/deudor,Balance General,Representa un activo. Documentos por cobrar a CP (corto plazo)
+Documentos por cobrar a LP (largo plazo),Activo a Largo Plazo/deudor,Balance General,Documentos por cobrar a LP (largo plazo)
+Documentos por pagar a CP (corto plazo),Pasivo/acreedor,Balance General,Documentos por pagar a CP (corto plazo)
+Documentos por pagar a LP (largo plazo),Pasivo a Largo Plazo/acreedor,Balance General,Documentos por pagar a LP (largo plazo)
+Efectos por cobrar a CP (corto plazo),Activo/deudor,Balance General,Representa un activo. Efectos por cobrar a CP (corto plazo)
+Efectos por cobrar a LP (largo plazo),Activo a Largo Plazo/deudor,Balance General,Efectos por cobrar a LP (largo plazo)
+Fuerza motriz administración,Gasto/deudor,Estado de Resultados,Fuerza motriz administración
+Grasas y aceites existencia,Activo/deudor,Balance General,Representa un activo. Grasas y aceites existencia
+Impuestos sobre la renta,Gasto/deudor,Estado de Resultados,Impuestos sobre la renta
+Impuestos sobre la renta por pagar,Pasivo/acreedor,Balance General,Impuestos sobre la renta por pagar
+Impuestos sobre la renta pagados por anticipado,Activo/deudor,Balance General,Representa un activo. Impuestos sobre la renta pagados por anticipado
+Impuesto sobre la renta por acreditar,Activo/deudor,Balance General,Representa un activo. Impuesto sobre la renta por acreditar
+Impuestos sobre la renta retenido sobre facturas especiales,Pasivo/acreedor,Balance General,Impuestos sobre la renta retenido sobre facturas especiales
+Impuesto único sobre inmuebles fábrica,Gasto/deudor,Costo de Producción,Impuesto único sobre inmuebles fábrica
+Impuesto único sobre inmuebles administración,Gasto/deudor,Estado de Resultados,Impuesto único sobre inmuebles administración
+Impuesto único sobre inmuebles sala de ventas,Gasto/deudor,Estado de Resultados,Impuesto único sobre inmuebles sala de ventas
+Impuesto único sobre inmuebles por pagar,Pasivo/acreedor,Balance General,Impuesto único sobre inmuebles por pagar
+Impuesto único sobre inmuebles retenido,Pasivo/acreedor,Balance General,Impuesto único sobre inmuebles retenido
+Inventario de artículos en proceso,Activo/deudor,Costo de Producción,Representa un activo. Inventario de artículos en proceso
+Inventario de materia prima,Activo/deudor,Costo de Producción,Representa un activo. Inventario de materia prima
+Inventario de artículos terminados,Activo/deudor,Balance General,Representa un activo. Inventario de artículos terminados
+Material de empaque existencia,Activo/deudor,Costo de Producción,Representa un activo. Material de empaque existencia
+Material de empaque consumido fábrica,Gasto/deudor,Costo de Producción,Material de empaque consumido fábrica
+Papelería y útiles existencia,Activo/deudor,Balance General,Representa un activo. Papelería y útiles existencia
+Proveeduría (existencia),Activo/deudor,Costo de Producción,Representa un activo. Proveeduría (existencia)
+Repuestos y accesorios existencia,Activo/deudor,Costo de Producción,Representa un activo. Repuestos y accesorios existencia
+Repuestos y accesorios consumidos fábrica,Gasto/deudor,Costo de Producción,Repuestos y accesorios consumidos fábrica
+Seguros vencidos fábrica,Gasto/deudor,Costo de Producción,Seguros vencidos fábrica
+Seguros vencidos de oficina,Gasto/deudor,Estado de Resultados,Seguros vencidos de oficina
+Seguros vencidos de sala de ventas,Gasto/deudor,Estado de Resultados,Seguros vencidos de sala de ventas
+Suministros existencia,Activo/deudor,Balance General,Representa un activo. Suministros existencia
+Suministros consumidos de fábrica,Gasto/deudor,Costo de Producción,Suministros consumidos de fábrica
+Suscriptores de acciones,Patrimonio/acreedor,Balance General,Suscriptores de acciones
+Útiles y enseres existencia,Activo/deudor,Balance General,Representa un activo. Útiles y enseres existencia
+Caja,Activo/deudor,Balance General,Representa un activo. Caja
+Ventas,Ingreso/acreedor,Estado de Resultados,Ventas
+Costo de ventas,Gasto/deudor,Estado de Resultados,Costo de ventas
+Sueldos y salarios,Gasto/deudor,Estado de Resultados,Sueldos y salarios
+Gastos de administración,Gasto/deudor,Estado de Resultados,Gastos de administración
+Gastos de venta,Gasto/deudor,Estado de Resultados,Gastos de venta
+Impuestos por pagar,Pasivo/acreedor,Balance General,Impuestos por pagar
+Amortización acumulada,Contra activo,Balance General,Amortización acumulada
+Depreciación acumulada,Contra activo,Balance General,Depreciación acumulada
+Intereses por pagar,Pasivo/acreedor,Balance General,Intereses por pagar
+Cuentas por cobrar,Activo/deudor,Balance General,Representa un activo. Cuentas por cobrar
+Mobiliario y equipo fábrica,Activo/Deudor,Balance General,Mobiliario y equipo fábrica
+Depreciación mobiliario y equipo de sala de ventas,Gasto/Deudor,Estado de Resultados,Depreciación mobiliario y equipo de sala de ventas
+Financiamiento antes del impuesto,Gasto/Deudor,Estado de Resultados,Financiamiento antes del impuesto
+Financiamiento después del impuesto,Gasto/Deudor,Estado de Resultados,Financiamiento después del impuesto
+Ganancia antes del impuesto antes de reserva,Ingreso/Acreedor,Estado de Resultados,Ganancia antes del impuesto antes de reserva
+Depreciación de activos,Gasto/Deudor,Estado de Resultados,Depreciación de activos
+Baja de capital,Pérdida/Deudor,Balance General,Baja de capital
+IUSI por pagar,Pasivo/Acreedor,Balance General,IUSI por pagar
+Suministros consumidos sala de ventas,Gasto/Deudor,Estado de Resultados,Suministros consumidos sala de ventas
+Acciones adquiridas,Activo/deudor,No disponible,Representa un activo. 1 Acciones adquiridas
+Acciones no suscritas,Activo/deudor,No disponible,Representa un activo. 2 Acciones no suscritas
+Acciones por suscribir,No disponible,No disponible,3 Acciones por suscribir
+Acciones suscritas,Activo/deudor,No disponible,Representa un activo. 4 Acciones suscritas
+Acreedores,Activo/deudor,No disponible,Representa un activo. 5 Acreedores
+Acreedores hipotecarios.,Activo/deudor,No disponible,Representa un activo. 6 Acreedores hipotecarios.
+Acreedores a largo plazo,Activo/deudor,No disponible,Representa un activo. 7 Acreedores a largo plazo
+Acreedores por prendas en garantia,No disponible,No disponible,8. Acreedores por prendas en garantia
+Acreedores comerciales,Activo/deudor,No disponible,Representa un activo. 9 Acreedores comerciales
+Acreedores no Comerciales,Activo/deudor,No disponible,Representa un activo. 10 Acreedores no Comerciales
+Alquileres cobrados por anticipado,Activo/deudor,Balance General,Representa un activo. Alquileres cobrados por anticipado
+Alquileres percibidos no devengados,Activo/deudor,Balance General,Representa un activo. Alquileres percibidos no devengados
+Alquileres pagados por anticipado,Activo/deudor,Balance General,Representa un activo. Alquileres pagados por anticipado
+Bancos,Activo/deudor,Balance General,Representa un activo. Bancos
+Acciones adquiridas,Activo/deudor,Balance General,Representa un activo. Acciones adquiridas
+Acciones no suscritas,Activo/deudor,Balance General,Representa un activo. Acciones no suscritas
+Acciones por suscribir,Activo/deudor,Balance General,Representa un activo. Acciones por suscribir
+Acciones suscritas,Activo/deudor,Balance General,Representa un activo. Acciones suscritas
+Acreedores,Pasivo/acreedor,Balance General,Acreedores
+Acreedores hipotecarios,Pasivo a Largo Plazo/acreedor,Balance General,Acreedores hipotecarios
+Acreedores a largo plazo,Pasivo a Largo Plazo/acreedor,Balance General,Acreedores a largo plazo
+Acreedores por prendas en garantía,Pasivo/acreedor,Balance General,Acreedores por prendas en garantía
+Acreedores comerciales,Pasivo/acreedor,Balance General,Acreedores comerciales
+Acreedores no comerciales,Pasivo/acreedor,Balance General,Acreedores no comerciales
+Aguinaldos,Gasto/deudor,Estado de Resultados,Aguinaldos
+Aguinaldos sala de ventas,Gasto/deudor,Estado de Resultados,Aguinaldos sala de ventas
+Aguinaldos de fábrica,Gasto/deudor,Costo de Producción,Aguinaldos de fábrica
+Almacén de envases,Activo/deudor,Balance General,Representa un activo. Almacén de envases
+Alquileres cobrados,Ingreso/acreedor,Estado de Resultados,Alquileres cobrados
+Alquileres ganados,Ingreso/acreedor,Estado de Resultados,Alquileres ganados
+Alquileres percibidos,Ingreso/acreedor,Estado de Resultados,Alquileres percibidos
+Alquileres producto,Ingreso/acreedor,Estado de Resultados,Alquileres producto
+Alquileres devengados,Ingreso/acreedor,Estado de Resultados,Alquileres devengados
+Alquileres,Gasto/deudor,Estado de Resultados,Alquileres
+Alquileres de oficina,Gasto/deudor,Estado de Resultados,Alquileres de oficina
+Alquileres de sala de ventas,Gasto/deudor,Estado de Resultados,Alquileres de sala de ventas
+Alquileres de fábrica,Gasto/deudor,Costo de Producción,Alquileres de fábrica
+Alquileres por pagar,Pasivo/acreedor,Balance General,Alquileres por pagar
+Amortizaciones de oficina,Gasto/deudor,Estado de Resultados,Amortizaciones de oficina
+Amortizaciones de sala de ventas,Gasto/deudor,Estado de Resultados,Amortizaciones de sala de ventas
+Amortizaciones de fábrica,Gasto/deudor,Costo de Producción,Amortizaciones de fábrica
+Amortización crédito mercantil,Activo Amortizable/deudor,Balance General,Amortización crédito mercantil
+Amortización derecho de llave,Activo Amortizable/deudor,Balance General,Amortización derecho de llave
+Amortización gastos de constitución,Activo Amortizable/deudor,Balance General,Amortización gastos de constitución
+Amortización gastos de instalación fábrica,Activo Amortizable/deudor,Costo de Producción,Amortización gastos de instalación fábrica
+Amortización gastos de instalación sala de ventas,Activo Amortizable/deudor,Estado de Resultados,Amortización gastos de instalación sala de ventas
+Amortización gastos de instalación administración,Activo Amortizable/deudor,Estado de Resultados,Amortización gastos de instalación administración
+Amortización gastos de instalación oficina,Activo Amortizable/deudor,Estado de Resultados,Amortización gastos de instalación oficina
+Amortización gastos de organización,Activo Amortizable/deudor,Balance General,Amortización gastos de organización
+Amortización marcas y patentes,Activo Amortizable/deudor,Balance General,Amortización marcas y patentes
+Amortización de patentes,Activo Amortizable/deudor,Balance General,Amortización de patentes
+Amortización renombre comercial,Activo Amortizable/deudor,Balance General,Amortización renombre comercial
+Anticipo de clientes,Pasivo/acreedor,Balance General,Anticipo de clientes
+Anticipo sobre ventas,Pasivo/acreedor,Balance General,Anticipo sobre ventas
+Activos inservibles,Pérdida/deudor,Estado de Resultados,Activos inservibles
+Anticipo a proveedores,Activo/deudor,Balance General,Representa un activo. Anticipo a proveedores
+Anticipo sobre compras,Activo/deudor,Balance General,Representa un activo. Anticipo sobre compras
+Anticipo sobre sueldos,Activo/deudor,Balance General,Representa un activo. Anticipo sobre sueldos
+Artículos en proceso,Activo/deudor,Costo de Producción,Representa un activo. Artículos en proceso
+Artículos terminados,Activo/deudor,Balance General,Representa un activo. Artículos terminados
+Artículos enviados en consignación,Activo/deudor,Balance General,Representa un activo. Artículos enviados en consignación
+Artículos recibidos en consignación,Pasivo/acreedor,Balance General,Artículos recibidos en consignación
+Bonificación incentivo administración,Gasto/deudor,Estado de Resultados,Bonificación incentivo administración
+Bonificación incentivo sala de ventas,Gasto/deudor,Estado de Resultados,Bonificación incentivo sala de ventas
+Bonificación incentivo de fábrica,Gasto/deudor,Costo de Producción,Bonificación incentivo de fábrica
+Bonos comprados,Activo/deudor,Balance General,Representa un activo. Bonos comprados
+Bonos emitidos,Pasivo/acreedor,Balance General,Bonos emitidos
+Bono 14 de fábrica,Gasto/deudor,Costo de Producción,Bono 14 de fábrica
+Bono 14 de sala de ventas,Gasto/deudor,Estado de Resultados,Bono 14 de sala de ventas
+Bono 14 de administración,Gasto/deudor,Estado de Resultados,Bono 14 de administración
+Caja chica,Activo/deudor,Balance General,Representa un activo. Caja chica
+Caja y bancos,Activo/deudor,Balance General,Representa un activo. Caja y bancos
+Capital social,Patrimonio/acreedor,Balance General,Capital social
+Clientes,Activo/deudor,Balance General,Representa un activo. Clientes
+Combustibles y lubricantes (existencia),Activo/deudor,Balance General,Representa un activo. Combustibles y lubricantes (existencia)
+Comisiones cobradas por anticipado,Activo/deudor,Balance General,Representa un activo. Comisiones cobradas por anticipado
+Comisiones percibidas no devengadas,Activo/deudor,Balance General,Representa un activo. Comisiones percibidas no devengadas
+Comisiones pagadas por anticipado,Activo/deudor,Balance General,Representa un activo. Comisiones pagadas por anticipado
+Comisiones gasto,Gasto/deudor,Estado de Resultados,Comisiones gasto
+Comisiones,Activo/deudor,Balance General,Representa un activo. Comisiones
+Comisiones percibidas,Ingreso/acreedor,Estado de Resultados,Comisiones percibidas
+Comisiones por cobrar,Activo/deudor,Balance General,Representa un activo. Comisiones por cobrar
+Comisiones ganadas,Ingreso/acreedor,Estado de Resultados,Comisiones ganadas
+Comisiones por pagar,Pasivo/acreedor,Balance General,Comisiones por pagar
+Comisiones sobre ventas,Gasto/deudor,Estado de Resultados,Comisiones sobre ventas
+Crédito fiscal,Activo/deudor,Balance General,Representa un activo. Crédito fiscal
+Compras de materia prima,Activo/deudor,Balance General/Costo de Producción,Representa un activo. Compras de materia prima
+Construcciones,Activo/deudor,Balance General,Representa un activo. Construcciones
+Corresponsales (deudor),Activo/deudor,Balance General,Representa un activo. Corresponsales (deudor)
+Corresponsales (acreedor),Pasivo/acreedor,Balance General,Corresponsales (acreedor)
+Correo teléfono y telégrafo,Gasto/deudor,Estado de Resultados,Correo teléfono y telégrafo
+Cuentas malas,Pérdida/deudor,Estado de Resultados,Cuentas malas
+Cuentas por pagar,Pasivo/acreedor,Balance General,Cuentas por pagar
+Cuentas por pagar comerciales,Pasivo/acreedor,Balance General,Cuentas por pagar comerciales
+Cuentas por pagar no comerciales,Pasivo/acreedor,Balance General,Cuentas por pagar no comerciales
+Cuotas laborales,Gasto/deudor,Estado de Resultados,Cuotas laborales
+Cuotas laborales por pagar,Pasivo/acreedor,Balance General,Cuotas laborales por pagar
+Cuotas patronales fábrica,Gasto/deudor,Costo de Producción,Cuotas patronales fábrica
+Cuotas patronales administración,Gasto/deudor,Estado de Resultados,Cuotas patronales administración
+Cuotas patronales sala de ventas,Gasto/deudor,Estado de Resultados,Cuotas patronales sala de ventas
+Cuotas patronales por pagar,Pasivo/acreedor,Balance General,Cuotas patronales por pagar
+Cuenta promesa,Activo/Pasivo,Balance General,Cuenta promesa
+Débito fiscal,Activo/deudor,Balance General,Representa un activo. Débito fiscal
+Depósitos en garantía,Activo/deudor,Balance General,Representa un activo. Depósitos en garantía
+Depreciación fábrica,Gasto/deudor,Costo de Producción,Depreciación fábrica
+Depreciación administración,Gasto/deudor,Estado de Resultados,Depreciación administración
+Depreciación sala de ventas,Gasto/deudor,Estado de Resultados,Depreciación sala de ventas
+Depreciación construcción fábrica,Gasto/deudor,Costo de Producción,Depreciación construcción fábrica
+Depreciación construcción de oficina,Gasto/deudor,Estado de Resultados,Depreciación construcción de oficina
+Depreciación construcción de sala de ventas,Gasto/deudor,Estado de Resultados,Depreciación construcción de sala de ventas
+Depreciación edificios fábrica,Gasto/deudor,Costo de Producción,Depreciación edificios fábrica
+Depreciación edificios de oficina,Gasto/deudor,Estado de Resultados,Depreciación edificios de oficina
+Depreciación edificios de sala de ventas,Gasto/deudor,Estado de Resultados,Depreciación edificios de sala de ventas
+Depreciación inmuebles de fábrica,Gasto/deudor,Costo de Producción,Depreciación inmuebles de fábrica
+Depreciación inmuebles de oficina,Gasto/deudor,Estado de Resultados,Depreciación inmuebles de oficina
+Depreciación inmuebles de sala de ventas,Gasto/deudor,Estado de Resultados,Depreciación inmuebles de sala de ventas
+Depreciación herramientas de oficina,Gasto/deudor,Estado de Resultados,Depreciación herramientas de oficina
+Depreciación herramientas fábrica,Gasto/deudor,Costo de Producción,Depreciación herramientas fábrica
+Depreciación herramientas sala de ventas,Gasto/deudor,Estado de Resultados,Depreciación herramientas sala de ventas
+Depreciación equipo de computación,Gasto/deudor,Estado de Resultados,Depreciación equipo de computación
+Depreciación equipo de computación fábrica,Gasto/deudor,Costo de Producción,Depreciación equipo de computación fábrica
+Depreciación sistemas informáticos,Gasto/deudor,Estado de Resultados,Depreciación sistemas informáticos
+Depreciación vehículos de reparto,Gasto/deudor,Estado de Resultados,Depreciación vehículos de reparto
+Depreciación vehículos de fábrica,Gasto/deudor,Costo de Producción,Depreciación vehículos de fábrica
+Depreciación vehículos de oficina,Gasto/deudor,Estado de Resultados,Depreciación vehículos de oficina
+Depreciación vehículos de sala de ventas,Gasto/deudor,Estado de Resultados,Depreciación vehículos de sala de ventas
+Derecho de llave,Activo Intangible/deudor,Balance General,Derecho de llave
+Descuentos concedidos,Gasto/deudor,Estado de Resultados,Descuentos concedidos
+Descuento sobre acciones,Pasivo/acreedor,Balance General,Descuento sobre acciones
+Descuento sobre ventas,Gasto/deudor,Estado de Resultados,Descuento sobre ventas
+Descuento sobre compras,Ingreso/acreedor,Estado de Resultados,Descuento sobre compras
+Descuento sobre compras de materia prima,Ingreso/acreedor,Costo de Producción,Descuento sobre compras de materia prima
+Descuentos percibidos,Ingreso/acreedor,Estado de Resultados,Descuentos percibidos
+Deudores,Activo/deudor,Balance General,Representa un activo. Deudores
+Deudores diversos,Activo/deudor,Balance General,Representa un activo. Deudores diversos
+Deudores empleados,Activo/deudor,Balance General,Representa un activo. Deudores empleados
+Dividendos percibidos,Ingreso/acreedor,Estado de Resultados,Dividendos percibidos
+Dividendos no retirados,Pasivo/acreedor,Balance General,Dividendos no retirados
+Dividendos por pagar,Pasivo/acreedor,Balance General,Dividendos por pagar
+Dividendos ganados,Ingreso/acreedor,Estado de Resultados,Dividendos ganados
+Dividendos por cobrar,Activo/deudor,Balance General,Representa un activo. Dividendos por cobrar
+Divisas adquiridas,Activo/deudor,Balance General,Representa un activo. Divisas adquiridas
+Documentos endosados,Pasivo/acreedor,Balance General,Documentos endosados
+Documentos descontados,Pasivo/acreedor,Balance General,Documentos descontados
+Documentos por cobrar descontados,Activo/deudor,Balance General,Representa un activo. Documentos por cobrar descontados
+Donativos,Gasto/deudor,Estado de Resultados,Donativos
+Donativos pagados,Gasto/deudor,Estado de Resultados,Donativos pagados
+Donativos por pagar,Pasivo/acreedor,Balance General,Donativos por pagar
+Donativos percibidos,Ingreso/acreedor,Estado de Resultados,Donativos percibidos
+Efectos descontados,Pasivo/acreedor,Balance General,Efectos descontados
+Efectos endosados,Pasivo/acreedor,Balance General,Efectos endosados
+Efectos por cobrar,Activo/deudor,Balance General,Representa un activo. Efectos por cobrar
+Energía eléctrica de fábrica,Gasto/deudor,Costo de Producción,Energía eléctrica de fábrica
+Energía eléctrica de oficina,Gasto/deudor,Estado de Resultados,Energía eléctrica de oficina
+Energía eléctrica de sala de ventas,Gasto/deudor,Estado de Resultados,Energía eléctrica de sala de ventas
+Envases en departamento de producción,Activo/deudor,Costo de Producción,Representa un activo. Envases en departamento de producción
+Equipo de computación,Activo/deudor,Balance General,Representa un activo. Equipo de computación
+Equipo de reparto,Activo/deudor,Balance General,Representa un activo. Equipo de reparto
+Especies fiscales,Activo/deudor,Balance General,Representa un activo. Especies fiscales
+Existencia en caja,Activo/deudor,Balance General,Representa un activo. Existencia en caja
+Fletes sobre compras,Gasto/deudor,Costo de Producción/Estado de Resultados,Fletes sobre compras
+Fletes sobre compras de materia prima,Gasto/deudor,Costo de Producción,Fletes sobre compras de materia prima
+Fuerza motriz,Gasto/deudor,Estado de Resultados,Fuerza motriz
+Fuerza motriz de oficina,Gasto/deudor,Estado de Resultados,Fuerza motriz de oficina
+Fuerza motriz de sala de ventas,Gasto/deudor,Estado de Resultados,Fuerza motriz de sala de ventas
+Gastos de instalación fábrica,Activo Amortizable/deudor,Costo de Producción,Gastos de instalación fábrica
+Gastos diversos fábrica,Gasto/deudor,Costo de Producción,Gastos diversos fábrica
+Gastos diversos administración,Gasto/deudor,Estado de Resultados,Gastos diversos administración
+Gastos diversos sala de ventas,Gasto/deudor,Estado de Resultados,Gastos diversos sala de ventas
+Gastos generales,Gasto/deudor,Estado de Resultados,Gastos generales
+Gastos misceláneos fábrica,Gasto/deudor,Costo de Producción,Gastos misceláneos fábrica
+Gastos misceláneos administración,Gasto/deudor,Estado de Resultados,Gastos misceláneos administración
+Gastos misceláneos sala de ventas,Gasto/deudor,Estado de Resultados,Gastos misceláneos sala de ventas
+Gastos publicitarios,Gasto/deudor,Estado de Resultados,Gastos publicitarios
+Gastos sobre compras,Gasto/deudor,Costo de Producción/Estado de Resultados,Gastos sobre compras
+Gastos sobre compras de materia prima,Gasto/deudor,Costo de Producción,Gastos sobre compras de materia prima
+Grasas y aceites consumidos fábrica,Gasto/deudor,Costo de Producción,Grasas y aceites consumidos fábrica
+Grasas y aceites consumidos sala de ventas,Gasto/deudor,Estado de Resultados,Grasas y aceites consumidos sala de ventas
+Herramientas,Activo/deudor,Balance General,Representa un activo. Herramientas
+Hipotecas,Pasivo/acreedor,Balance General,Hipotecas
+Hipotecas a corto plazo,Pasivo/acreedor,Balance General,Hipotecas a corto plazo
+Hipotecas a largo plazo,Pasivo a Largo Plazo/acreedor,Balance General,Hipotecas a largo plazo
+IGSS por pagar,Pasivo/acreedor,Balance General,IGSS por pagar
+IGSS laboral,Gasto/deudor,Estado de Resultados,IGSS laboral
+Impuestos aduanales sobre compras,Gasto/deudor,Costo de Producción/Estado de Resultados,Impuestos aduanales sobre compras
+Impuestos aduanales sobre compras de materia prima,Gasto/deudor,Costo de Producción,Impuestos aduanales sobre compras de materia prima
+Impuestos y contribuciones de fábrica,Gasto/deudor,Costo de Producción,Impuestos y contribuciones de fábrica
+Impuestos y contribuciones de administración,Gasto/deudor,Estado de Resultados,Impuestos y contribuciones de administración
+Impuestos y contribuciones de sala de ventas,Gasto/deudor,Estado de Resultados,Impuestos y contribuciones de sala de ventas
+Impuestos y contribuciones por pagar,Pasivo/acreedor,Balance General,Impuestos y contribuciones por pagar
+Inmuebles,Activo/deudor,Balance General,Representa un activo. Inmuebles
+Intereses gasto,Gasto/deudor,Estado de Resultados,Intereses gasto
+Intereses por cobrar,Activo/deudor,Balance General,Representa un activo. Intereses por cobrar
+Intereses percibidos,Ingreso/acreedor,Estado de Resultados,Intereses percibidos
+Intereses no devengados,Activo/deudor,Balance General,Representa un activo. Intereses no devengados
+Intereses pagados por anticipado,Activo/deudor,Balance General,Representa un activo. Intereses pagados por anticipado
+Inversiones a corto plazo,Activo/deudor,Balance General,Representa un activo. Inversiones a corto plazo
+Inversiones a largo plazo,Activo a Largo Plazo/deudor,Balance General,Inversiones a largo plazo
+Inventarios,Activo/deudor,Balance General,Representa un activo. Inventarios
+Inventario de mercaderías,Activo/deudor,Balance General,Representa un activo. Inventario de mercaderías
+IVA acreditable,Activo/deudor,Balance General,Representa un activo. IVA acreditable
+IVA débito,Pasivo/acreedor,Balance General,IVA débito
+IVA por acreditar,Activo/deudor,Balance General,Representa un activo. IVA por acreditar
+IVA por cobrar,Activo/deudor,Balance General,Representa un activo. IVA por cobrar
+IVA retenido sobre facturas especiales,Pasivo/acreedor,Balance General,IVA retenido sobre facturas especiales
+IVA acreedor,Pasivo/acreedor,Balance General,IVA acreedor
+Mano de obra directa,Gasto/deudor,Costo de Producción,Mano de obra directa
+Marcas y patentes,Activo Intangible/deudor,Balance General,Marcas y patentes
+Materia prima,Activo/deudor,Costo de Producción,Representa un activo. Materia prima
+Materia prima estropeada,Pérdida/deudor,Costo de Producción/Estado de Resultados,Materia prima estropeada
+Materia prima inservible,Pérdida/deudor,Costo de Producción/Estado de Resultados,Materia prima inservible
+Materia prima en aduana,Activo/deudor,Costo de Producción,Representa un activo. Materia prima en aduana
+Materia prima en tránsito,Activo/deudor,Costo de Producción,Representa un activo. Materia prima en tránsito
+Material de empaque consumido,Gasto/deudor,Costo de Producción,Material de empaque consumido
+Mercaderías enviadas en consignación,Activo/deudor,Balance General,Representa un activo. Mercaderías enviadas en consignación
+Mercaderías recibidas en consignación,Pasivo/acreedor,Balance General,Mercaderías recibidas en consignación
+Mercaderías,Activo/deudor,Balance General,Representa un activo. Mercaderías
+Mercaderías en aduana,Activo/deudor,Costo de Producción,Representa un activo. Mercaderías en aduana
+Mobiliario y equipo,Activo/deudor,Balance General,Representa un activo. Mobiliario y equipo
+Mercadería inservible,Pérdida/deudor,Estado de Resultados,Mercadería inservible
+Multas y recargos,Gasto/deudor,Estado de Resultados,Multas y recargos
+Papelería y útiles consumidos,Gasto/deudor,Estado de Resultados,Papelería y útiles consumidos
+Pérdidas acumuladas,Pérdida/deudor,Balance General,Pérdidas acumuladas
+Pérdida de capital,Pérdida/deudor,Balance General,Pérdida de capital
+Pérdida en negociación de activos,Pérdida/deudor,Estado de Resultados,Pérdida en negociación de activos
+Préstamos bancarios,Pasivo/acreedor,Balance General,Préstamos bancarios
+Préstamos bancarios a corto plazo,Pasivo/acreedor,Balance General,Préstamos bancarios a corto plazo
+Préstamos bancarios a largo plazo,Pasivo a Largo Plazo/acreedor,Balance General,Préstamos bancarios a largo plazo
+Primas de seguros,Gasto/deudor,Estado de Resultados,Primas de seguros
+Prima sobre acciones,Pasivo/acreedor,Balance General,Prima sobre acciones
+Productos percibidos no devengados,Activo/deudor,Balance General,Representa un activo. Productos percibidos no devengados
+Productos por cobrar,Activo/deudor,Balance General,Representa un activo. Productos por cobrar
+Propaganda,Gasto/deudor,Estado de Resultados,Propaganda
+Proveedores,Pasivo/acreedor,Balance General,Proveedores
+Publicidad,Gasto/deudor,Estado de Resultados,Publicidad
+Propaganda pagada por anticipado,Activo/deudor,Balance General,Representa un activo. Propaganda pagada por anticipado
+Publicidad pagada por anticipado,Activo/deudor,Balance General,Representa un activo. Publicidad pagada por anticipado
+Recuperación de créditos,Ingreso/acreedor,Estado de Resultados,Recuperación de créditos
+Regalías,Gasto/deudor,Estado de Resultados,Regalías
+Regalías percibidas,Ingreso/acreedor,Estado de Resultados,Regalías percibidas
+Renombre comercial,Activo Intangible/deudor,Balance General,Renombre comercial
+Reserva legal,Patrimonio/acreedor,Balance General,Reserva legal
+Terrenos,Activo/deudor,Balance General,Representa un activo. Terrenos
+Timbre de prensa,Gasto/deudor,Estado de Resultados,Timbre de prensa
+Útiles y enseres consumidos,Gasto/deudor,Estado de Resultados,Útiles y enseres consumidos
+Valores mobiliarios,Activo/deudor,Balance General,Representa un activo. Valores mobiliarios
+Vehículos,Activo/deudor,Balance General,Representa un activo. Vehículos
+Ventas por realizar,Activo/deudor,Balance General,Representa un activo. Ventas por realizar
+Viáticos,Gasto/deudor,Estado de Resultados,Viáticos
+Reservas,Patrimonio/acreedor,Balance General,Reservas
+Alquileres devengados,Pasivo/acreedor,Balance General,Alquileres devengados
+Alquileres cobrados por anticipado,Activo,Balance General,Alquileres cobrados por anticipado
+Alquileres percibidos no devengados,Activo,Balance General,Alquileres percibidos no devengados
+Alquileres,Gasto,Estado de Resultados,Alquileres
+Alquileres de oficina,Gasto,Estado de Resultados,Alquileres de oficina
+Alquileres de sala de ventas,Gasto,Estado de Resultados,Alquileres de sala de ventas
+Alquileres de fábrica,Gasto,Estado de Resultados,Alquileres de fábrica
+Alquileres pagados por anticipado,Activo,Balance General,Alquileres pagados por anticipado
+Alquileres por pagar,Pasivo,Balance General,Alquileres por pagar
+Amortizaciones de oficina,Gasto,Estado de Resultados,Amortizaciones de oficina
+Amortizaciones de sala de ventas,Gasto,Estado de Resultados,Amortizaciones de sala de ventas
+Amortizaciones de fábrica,Gasto,Estado de Resultados,Amortizaciones de fábrica
+Amortización crédito mercantil,Activo Amortizable,Balance General,Amortización crédito mercantil
+Amortización derecho de llave,Activo Amortizable,Balance General,Amortización derecho de llave
+Amortización gastos de constitución,Activo Amortizable,Balance General,Amortización gastos de constitución
+Amortización gastos de instalación fábrica,Activo Amortizable,Balance General,Amortización gastos de instalación fábrica
+Amortización gastos de instalación sala de ventas,Activo Amortizable,Balance General,Amortización gastos de instalación sala de ventas
+Amortización gastos de instalación administración,Activo Amortizable,Balance General,Amortización gastos de instalación administración
+Amortización gastos de instalación oficina,Activo Amortizable,Balance General,Amortización gastos de instalación oficina
+Amortización gastos de organización,Activo Amortizable,Balance General,Amortización gastos de organización
+Amortización marcas y patentes,Activo Amortizable,Balance General,Amortización marcas y patentes
+Amortización de patentes,Activo Amortizable,Balance General,Amortización de patentes
+Amortización renombre comercial,Activo Amortizable,Balance General,Amortización renombre comercial
+Amortización acumulada (cualquier activo intangible),Contra Activo,Balance General,Amortización acumulada (cualquier activo intangible)
+Anticipo de clientes,Activo,Balance General,Anticipo de clientes
+Anticipo sobre ventas,Activo,Balance General,Anticipo sobre ventas
+Activos inservibles,Pérdida,Estado de Resultados,Activos inservibles
+Anticipo a proveedores,Activo,Balance General,Anticipo a proveedores
+Anticipo sobre compras,Activo,Balance General,Anticipo sobre compras
+Anticipo sobre sueldos,Activo,Balance General,Anticipo sobre sueldos
+Artículos en proceso,Activo,Costo de Producción,Artículos en proceso
+Artículos terminados,Activo,Balance General,Artículos terminados
+Artículos enviados en consignación,Activo,Balance General,Artículos enviados en consignación
+Artículos recibidos en consignación,Pasivo,Balance General,Artículos recibidos en consignación
+Bancos,Activo,Balance General,Bancos
+Bonificación incentivo administración,Gasto,Estado de Resultados,Bonificación incentivo administración
+Bonificación incentivo sala de ventas,Gasto,Estado de Resultados,Bonificación incentivo sala de ventas
+Bonificación incentivo de fábrica,Gasto,Costo de Producción,Bonificación incentivo de fábrica
+Bonos comprados,Activo,Balance General,Bonos comprados
+Bonos emitidos,Pasivo,Balance General,Bonos emitidos
+Bono 14 de fábrica,Gasto,Costo de Producción,Bono 14 de fábrica
+Bono 14 de sala de ventas,Gasto,Estado de Resultados,Bono 14 de sala de ventas
+Bono 14 de administración,Gasto,Estado de Resultados,Bono 14 de administración
+Caja chica,Activo,Balance General,Caja chica
+Caja y bancos,Activo,Balance General,Caja y bancos
+Capital social,Patrimonio,Balance General,Capital social
+Capital autorizado,Patrimonio,Balance General,Capital autorizado
+Clientes,Activo,Balance General,Clientes
+Combustibles y lubricantes (existencia),Activo,Balance General,Combustibles y lubricantes (existencia)
+Combustibles y lubricantes consumidos sala de ventas,Gasto,Estado de Resultados,Combustibles y lubricantes consumidos sala de ventas
+Combustibles y lubricantes consumidos fábrica,Gasto,Costo de Producción,Combustibles y lubricantes consumidos fábrica
+Combustibles y lubricantes consumidos administración,Gasto/Deudor,Estado de Resultados,Combustibles y lubricantes consumidos administración
+Comisiones cobradas por anticipado,Activo/Deudor,Balance General,Comisiones cobradas por anticipado
+Comisiones percibidas no devengadas,Pasivo/Acreedor,Balance General,Comisiones percibidas no devengadas
+Comisiones pagadas por anticipado,Activo/Deudor,Balance General,Comisiones pagadas por anticipado
+Comisiones gasto,Gasto/Deudor,Estado de Resultados,Comisiones gasto
+Comisiones,Ingreso/Acreedor,Estado de Resultados,Comisiones
+Comisiones percibidas,Ingreso/Acreedor,Estado de Resultados,Comisiones percibidas
+Comisiones por cobrar,Activo/Deudor,Balance General,Comisiones por cobrar
+Comisiones ganadas,Ingreso/Acreedor,Estado de Resultados,Comisiones ganadas
+Comisiones por pagar,Pasivo/Acreedor,Balance General,Comisiones por pagar
+Comisiones sobre ventas,Gasto/Deudor,Estado de Resultados,Comisiones sobre ventas
+Crédito fiscal,Activo/Deudor,Balance General,Crédito fiscal
+Compras de materia prima,Gasto/Deudor,Costo de Producción,Compras de materia prima
+Construcciones,Activo/Deudor,Balance General,Construcciones
+Corresponsales (deudor),Activo/Deudor,Balance General,Corresponsales (deudor)
+Corresponsales (acreedor),Pasivo/Acreedor,Balance General,Corresponsales (acreedor)
+Correo teléfono y telégrafo,Gasto/Deudor,Estado de Resultados,Correo teléfono y telégrafo
+Cuentas malas,Gasto/Deudor,Estado de Resultados,Cuentas malas
+Cuentas por pagar,Pasivo/Acreedor,Balance General,Cuentas por pagar
+Cuentas por pagar comerciales,Pasivo/Acreedor,Balance General,Cuentas por pagar comerciales
+Cuentas por pagar no comerciales,Pasivo/Acreedor,Balance General,Cuentas por pagar no comerciales
+Cuotas laborales,Gasto/Deudor,Estado de Resultados,Cuotas laborales
+Cuotas laborales por pagar,Pasivo/Acreedor,Balance General,Cuotas laborales por pagar
+Cuotas patronales fábrica,Gasto/Deudor,Costo de Producción,Cuotas patronales fábrica
+Cuotas patronales administración,Gasto/Deudor,Estado de Resultados,Cuotas patronales administración
+Cuotas patronales sala de ventas,Gasto/Deudor,Estado de Resultados,Cuotas patronales sala de ventas
+Cuotas patronales por pagar,Pasivo/Acreedor,Balance General,Cuotas patronales por pagar
+Cuenta promesa,Activo/Deudor,Balance General,Cuenta promesa
+Débito fiscal,Pasivo/Acreedor,Balance General,Débito fiscal
+Depósitos en garantía,Activo/Deudor,Balance General,Depósitos en garantía
+Depreciación fábrica,Gasto/Deudor,Costo de Producción,Depreciación fábrica
+Depreciación administración,Gasto/Deudor,Estado de Resultados,Depreciación administración
+Depreciación sala de ventas,Gasto/Deudor,Estado de Resultados,Depreciación sala de ventas
+Depreciación construcción fábrica,Gasto/Deudor,Costo de Producción,Depreciación construcción fábrica
+Depreciación construcción de oficina,Gasto/Deudor,Estado de Resultados,Depreciación construcción de oficina
+Depreciación construcción de sala de ventas,Gasto/Deudor,Estado de Resultados,Depreciación construcción de sala de ventas
+Depreciación edificios fábrica,Gasto/Deudor,Costo de Producción,Depreciación edificios fábrica
+Depreciación edificios de oficina,Gasto/Deudor,Estado de Resultados,Depreciación edificios de oficina
+Depreciación edificios de sala de ventas,Gasto/Deudor,Estado de Resultados,Depreciación edificios de sala de ventas
+Depreciación inmuebles de fábrica,Gasto/Deudor,Costo de Producción,Depreciación inmuebles de fábrica
+Depreciación inmuebles de oficina,Gasto/Deudor,Estado de Resultados,Depreciación inmuebles de oficina
+Depreciación inmuebles de sala de ventas,Gasto/Deudor,Estado de Resultados,Depreciación inmuebles de sala de ventas
+Depreciación herramientas de oficina,Gasto/Deudor,Estado de Resultados,Depreciación herramientas de oficina
+Depreciación herramientas fábrica,Gasto/Deudor,Costo de Producción,Depreciación herramientas fábrica
+Depreciación herramientas sala de ventas,Gasto/Deudor,Estado de Resultados,Depreciación herramientas sala de ventas
+Depreciación maquinaria,Gasto/Deudor,Costo de Producción,Depreciación maquinaria
+Mobiliario y equipo de oficina,Activo/Deudor,Balance General,Mobiliario y equipo de oficina
+Depreciación cristalería,Gasto/Deudor,Estado de Resultados,Depreciación cristalería
+Depreciación vehículos de reparto,Gasto/deudor,Costo de Distribución,Depreciación vehículos de reparto
+Depreciación equipo de computación sala de ventas,Gasto/deudor,Estado de Resultados,Depreciación equipo de computación sala de ventas
+Derecho de llave,Activo/deudor,Balance General,Representa un activo. Derecho de llave
+Devoluciones y rebajas sobre ventas,Ingreso/acreedor,Estado de Resultados,Devoluciones y rebajas sobre ventas
+Devoluciones y rebajas sobre compras,Gasto/deudor,Costo de Producción,Devoluciones y rebajas sobre compras
+Devoluciones y rebajas sobre compras de materia prima,Gasto/deudor,Costo de Producción,Devoluciones y rebajas sobre compras de materia prima
+Documentos por cobrar a corto plazo,Activo/deudor,Balance General,Representa un activo. Documentos por cobrar a corto plazo
+Documentos por cobrar a largo plazo,Activo/deudor,Balance General,Representa un activo. Documentos por cobrar a largo plazo
+Documentos por pagar a corto plazo,Pasivo/acreedor,Balance General,Documentos por pagar a corto plazo
+Documentos por pagar a largo plazo,Pasivo/acreedor,Balance General,Documentos por pagar a largo plazo
+Edificios,Activo/deudor,Balance General,Representa un activo. Edificios
+Efectos por cobrar a corto plazo,Activo/deudor,Balance General,Representa un activo. Efectos por cobrar a corto plazo
+Efectos por cobrar a largo plazo,Activo/deudor,Balance General,Representa un activo. Efectos por cobrar a largo plazo
+Especies fiscales,Activo/Deudor,Balance General,Especies fiscales
+Estimación para cuentas incobrables,Gasto/Deudor,Estado de Resultados,Estimación para cuentas incobrables
+Estimación para cuentas malas,Gasto/Deudor,Estado de Resultados,Estimación para cuentas malas
+Fletes sobre compras,Gasto/Deudor,Costo de Producción,Fletes sobre compras
+Fletes sobre compras de materia prima,Gasto/Deudor,Costo de Producción,Fletes sobre compras de materia prima
+Fórmulas patentadas,Activo Intangible/Deudor,Balance General,Fórmulas patentadas
+Fuerza motriz,Gasto/Deudor,Costo de Producción,Fuerza motriz
+Fuerza motriz fábrica,Gasto/Deudor,Costo de Producción,Fuerza motriz fábrica
+Fuerza motriz sala de ventas,Gasto/Deudor,Estado de Resultados,Fuerza motriz sala de ventas
+Fuerza motriz de oficina,Gasto/Deudor,Estado de Resultados,Fuerza motriz de oficina
+Gastos de organización,Gasto/Deudor,Estado de Resultados,Gastos de organización
+Gastos de constitución,Gasto/Deudor,Estado de Resultados,Gastos de constitución
+Gastos de instalación,Gasto/Deudor,Estado de Resultados,Gastos de instalación
+Gastos de instalación fábrica,Gasto/Deudor,Costo de Producción,Gastos de instalación fábrica
+Gastos diversos fábrica,Gasto/Deudor,Costo de Producción,Gastos diversos fábrica
+Gastos diversos administración,Gasto/Deudor,Estado de Resultados,Gastos diversos administración
+Gastos diversos sala de ventas,Gasto/Deudor,Estado de Resultados,Gastos diversos sala de ventas
+Gastos generales,Gasto/Deudor,Estado de Resultados,Gastos generales
+Gastos misceláneos fábrica,Gasto/Deudor,Costo de Producción,Gastos misceláneos fábrica
+Gastos misceláneos administración,Gasto/Deudor,Estado de Resultados,Gastos misceláneos administración
+Gastos misceláneos sala de ventas,Gasto/Deudor,Estado de Resultados,Gastos misceláneos sala de ventas
+Gastos publicitarios,Gasto/Deudor,Estado de Resultados,Gastos publicitarios
+Gastos sobre compras,Gasto/Deudor,Costo de Producción,Gastos sobre compras
+Gastos sobre compras de materia prima,Gasto/Deudor,Costo de Producción,Gastos sobre compras de materia prima
+Grasas y aceites existencia,Activo/Deudor,Balance General,Grasas y aceites existencia
+Grasas y aceites consumidos fábrica,Gasto/Deudor,Costo de Producción,Grasas y aceites consumidos fábrica
+Grasas y aceites consumidos sala de ventas,Gasto/Deudor,Estado de Resultados,Grasas y aceites consumidos sala de ventas
+Herramientas,Activo/Deudor,Balance General,Herramientas
+Hipotecas,Pasivo/Acreedor,Balance General,Hipotecas
+Hipotecas a corto plazo,Pasivo/Acreedor,Balance General,Hipotecas a corto plazo
+Hipotecas a largo plazo,Pasivo a Largo Plazo/Acreedor,Balance General,Hipotecas a largo plazo
+IGSS por pagar,Pasivo/Acreedor,Balance General,IGSS por pagar
+IGSS laboral,Gasto/Deudor,Estado de Resultados,IGSS laboral
+Impuestos aduanales sobre compras,Gasto/Deudor,Costo de Producción,Impuestos aduanales sobre compras
+Impuestos aduanales sobre compras de materia prima,Gasto/Deudor,Costo de Producción,Impuestos aduanales sobre compras de materia prima
+Impuestos y contribuciones de fábrica,Gasto/Deudor,Costo de Producción,Impuestos y contribuciones de fábrica
+Impuestos y contribuciones de administración,Gasto/Deudor,Estado de Resultados,Impuestos y contribuciones de administración
+Impuestos y contribuciones de sala de ventas,Gasto/Deudor,Estado de Resultados,Impuestos y contribuciones de sala de ventas
+IUSI sala de ventas,Gasto/Deudor,Estado de Resultados,IUSI sala de ventas
+IUSI administración,Gasto/Deudor,Estado de Resultados,IUSI administración
+Impuestos y contribuciones por pagar,Pasivo/Acreedor,Balance General,Impuestos y contribuciones por pagar
+ISR,Gasto/Perdida,Estado de Resultados,ISR
+ISR por pagar,Pasivo/Acreedor,Balance General,ISR por pagar
+ISR pagado por anticipado,Activo/Deudor,Balance General,ISR pagado por anticipado
+ISO por acreditar,Activo/Deudor,Balance General,ISO por acreditar
+ISO por pagar,Pasivo/Acreedor,Balance General,ISO por pagar
+ISR retenido sobre facturas especiales,Pasivo/Acreedor,Balance General,ISR retenido sobre facturas especiales
+ISR retenido sobre ganancias de capital,Pasivo/Acreedor,Balance General,ISR retenido sobre ganancias de capital
+ISR retenido sobre ventas por acreditar,Activo/Deudor,Balance General,ISR retenido sobre ventas por acreditar
+ISR retenido sobre pago de dividendos,Pasivo/Acreedor,Balance General,ISR retenido sobre pago de dividendos
+ISR sobre ganancias de capital,Gasto/Deudor,Estado de Resultados,ISR sobre ganancias de capital
+ISR trimestral,Gasto/Deudor,Estado de Resultados,ISR trimestral
+Indemnización fábrica,Gasto/Deudor,Costo de Producción,Indemnización fábrica
+Indemnización sala de ventas,Gasto/Deudor,Estado de Resultados,Indemnización sala de ventas
+Indemnización administración,Gasto/Deudor,Estado de Resultados,Indemnización administración
+Inmuebles,Activo/Deudor,Balance General,Inmuebles
+Intereses gasto,Gasto/Deudor,Estado de Resultados,Intereses gasto
+Intereses por cobrar,Activo/Deudor,Balance General,Intereses por cobrar
+Intereses percibidos,Ingreso/Acreedor,Estado de Resultados,Intereses percibidos
+Intereses no devengados,Activo/Deudor,Balance General,Intereses no devengados
+Intereses pagados por anticipado,Activo/Deudor,Balance General,Intereses pagados por anticipado
+Inversiones a corto plazo,Activo/Deudor,Balance General,Inversiones a corto plazo
+Inversiones a largo plazo,Activo a Largo Plazo/Deudor,Balance General,Inversiones a largo plazo
+Inversiones en valores,Activo/Deudor,Balance General,Inversiones en valores
+Inversiones en bonos a corto plazo,Activo/Deudor,Balance General,Inversiones en bonos a corto plazo
+Inversiones en bonos a largo plazo,Activo a Largo Plazo/Deudor,Balance General,Inversiones en bonos a largo plazo
+IVA acreditable,Activo/Deudor,Balance General,IVA acreditable
+IVA débito,Pasivo/Acreedor,Balance General,IVA débito
+IVA por acreditar,Activo/Deudor,Balance General,IVA por acreditar
+IVA por cobrar,Activo/Deudor,Balance General,IVA por cobrar
+IVA retenido sobre facturas especiales,Pasivo/Acreedor,Balance General,IVA retenido sobre facturas especiales
+IVA acreedor,Pasivo/Acreedor,Balance General,IVA acreedor
+Mano de obra directa,Gasto/Deudor,Costo de Producción,Mano de obra directa
+Marcas y patentes,Activo Intangible/Deudor,Balance General,Marcas y patentes
+Materia prima,Activo/Deudor,Balance General y Costo de Producción,Materia prima
+Materia prima estropeada,Pérdida/Deudor,Estado de Resultados,Materia prima estropeada
+Materia prima inservible,Pérdida/Deudor,Estado de Resultados,Materia prima inservible
+Materia prima en aduana,Activo/Deudor,Balance General,Materia prima en aduana
+Materia prima en tránsito,Activo/Deudor,Balance General,Materia prima en tránsito
+Material de empaque existencia,Activo/Deudor,Balance General,Material de empaque existencia
+Material de empaque consumido,Gasto/Deudor,Costo de Producción,Material de empaque consumido
+Material de empaque consumido fábrica,Gasto/Deudor,Costo de Producción,Material de empaque consumido fábrica
+Mercaderías enviadas en consignación,Activo/Deudor,Balance General,Mercaderías enviadas en consignación
+Mercaderías recibidas en consignación,Pasivo/Acreedor,Balance General,Mercaderías recibidas en consignación
+Mercaderías,Activo/Deudor,Balance General,Mercaderías
+Mercaderías en aduana,Activo/Deudor,Balance General,Mercaderías en aduana
+Mobiliario y equipo,Activo/Deudor,Balance General,Mobiliario y equipo
+Mercadería inservible,Pérdida/Deudor,Estado de Resultados,Mercadería inservible
+Multas y recargos,Gasto/Deudor,Estado de Resultados,Multas y recargos
+Papelería y útiles existencia,Activo/Deudor,Balance General,Papelería y útiles existencia
+Papelería y útiles consumidos,Gasto/Deudor,Estado de Resultados,Papelería y útiles consumidos
+Pérdidas acumuladas,Pérdida/Deudor,Balance General,Pérdidas acumuladas
+Pérdida de capital,Pérdida/Deudor,Balance General,Pérdida de capital
+Pérdida en negociación de activos,Pérdida/Deudor,Estado de Resultados,Pérdida en negociación de activos
+Préstamos bancarios,Pasivo/Acreedor,Balance General,Préstamos bancarios
+Préstamos bancarios a corto plazo,Pasivo/Acreedor,Balance General,Préstamos bancarios a corto plazo
+Préstamos bancarios a largo plazo,Pasivo a Largo Plazo/Acreedor,Balance General,Préstamos bancarios a largo plazo
+Primas de seguros,Gasto/Deudor,Estado de Resultados,Primas de seguros
+Prima sobre acciones,Patrimonio/Acreedor,Balance General,Prima sobre acciones
+Productos percibidos no devengados,Pasivo/Acreedor,Balance General,Productos percibidos no devengados
+Productos por cobrar,Activo/Deudor,Balance General,Productos por cobrar
+Propaganda,Gasto/Deudor,Estado de Resultados,Propaganda
+Proveedores,Pasivo/Acreedor,Balance General,Proveedores
+Proveeduría (existencia),Activo/Deudor,Balance General,Proveeduría (existencia)
+Provisión para cuentas incobrables,Gasto/Deudor,Estado de Resultados,Provisión para cuentas incobrables
+Publicidad,Gasto/Deudor,Estado de Resultados,Publicidad
+Propaganda pagada por anticipado,Activo/Deudor,Balance General,Propaganda pagada por anticipado
+Publicidad pagada por anticipado,Activo/Deudor,Balance General,Publicidad pagada por anticipado
+Recuperación de créditos,Ingreso/Acreedor,Estado de Resultados,Recuperación de créditos
+Regalías,Gasto/Deudor,Estado de Resultados,Regalías
+Regalías percibidas,Ingreso/Acreedor,Estado de Resultados,Regalías percibidas
+Renombre comercial,Activo Intangible/Deudor,Balance General,Renombre comercial
+Reparación y mantenimiento maquinaria,Gasto/Deudor,Costo de Producción,Reparación y mantenimiento maquinaria
+Repuestos y accesorios existencia,Activo/Deudor,Balance General,Repuestos y accesorios existencia
+Repuestos y accesorios consumidos fábrica,Gasto/Deudor,Costo de Producción,Repuestos y accesorios consumidos fábrica
+Seguros no vencidos,Activo/Deudor,Balance General,Seguros no vencidos
+Seguros vencidos administración,Gasto/Deudor,Estado de Resultados,Seguros vencidos administración
+Seguros vencidos sala de ventas,Gasto/Deudor,Estado de Resultados,Seguros vencidos sala de ventas
+Socio X cuenta personal,Patrimonio/Acreedor,Balance General,Socio X cuenta personal
+Socio X cuenta particular,Patrimonio/Acreedor,Balance General,Socio X cuenta particular
+Socio X cuenta promesa,Activo/Deudor,Balance General,Socio X cuenta promesa
+Socio X cuenta beneficios,Patrimonio/Acreedor,Balance General,Socio X cuenta beneficios
+Sueldos socios,Gasto/Deudor,Estado de Resultados,Sueldos socios
+Sueldos administración,Gasto/Deudor,Estado de Resultados,Sueldos administración
+Sueldos por pagar,Pasivo/Acreedor,Balance General,Sueldos por pagar
+Suministros existencia,Activo/Deudor,Balance General,Suministros existencia
+Suministros consumidos de fábrica,Gasto/Deudor,Costo de Producción,Suministros consumidos de fábrica
+Superávit acumulado,Patrimonio/Acreedor,Balance General,Superávit acumulado
+Suscriptores de acciones,Pasivo/Acreedor,Balance General,Suscriptores de acciones
+Superávit por revaluación de activos,Patrimonio/Acreedor,Balance General,Superávit por revaluación de activos
+Terrenos,Activo/Deudor,Balance General,Terrenos
+Timbre de prensa,Gasto/Deudor,Estado de Resultados,Timbre de prensa
+Útiles y enseres existencia,Activo/Deudor,Balance General,Útiles y enseres existencia
+Útiles y enseres consumidos,Gasto/Deudor,Estado de Resultados,Útiles y enseres consumidos
+Utilidad del ejercicio,Ingreso/Acreedor,Estado de Resultados,Utilidad del ejercicio
+Utilidades no distribuidas,Patrimonio/Acreedor,Balance General,Utilidades no distribuidas
+Utilidades retenidas,Patrimonio/Acreedor,Balance General,Utilidades retenidas
+Valores mobiliarios,Activo/Deudor,Balance General,Valores mobiliarios
+Vehículos,Activo/Deudor,Balance General,Vehículos
+Ventas por realizar,Ingreso/Acreedor,Estado de Resultados,Ventas por realizar
+Viáticos,Gasto/Deudor,Estado de Resultados,Viáticos
